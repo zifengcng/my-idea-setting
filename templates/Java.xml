@@ -1,0 +1,12 @@
+<templateSet group="Java">
+  <template name="toMap" value="Map&lt;String, String&gt; map = list.stream()&#10;                .collect(Collectors.toMap(S::getId, S::getName, (v1, v2) -&gt; v1));" description="toMap" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="toPage" value="PageHelper.startPage(req.getPageNo(), req.getPageSize(), true, false, true);" description="toPage" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

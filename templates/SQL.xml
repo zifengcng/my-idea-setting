@@ -1,0 +1,7 @@
+<templateSet group="SQL">
+  <template name="fori" value=" &lt;if test=&quot;ids != null and ids.size() != 0&quot;&gt;&#10;    and id in&#10;    &lt;foreach collection=&quot;ids&quot; item=&quot;id&quot; open=&quot;(&quot; separator=&quot;,&quot; close=&quot;)&quot;&gt;&#10;        #{id}&#10;    &lt;/foreach&gt;&#10;&lt;/if&gt;" description="fori" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="SQL" value="true" />
+    </context>
+  </template>
+</templateSet>
