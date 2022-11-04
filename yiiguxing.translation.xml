@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="469" />
     <histories>
+      <item value="Unite" />
+      <item value="统一" />
+      <item value="统一指标" />
+      <item value="无效" />
       <item value="Returns &lt;tt&gt;true&lt;tt&gt; if this set contains all of the elements of the specified collection. If the specified collection is also a set, this method returns &lt;tt&gt;true&lt;tt&gt; if it is a &lt;i&gt;subset&lt;i&gt; of this set. @param c collection to be checked for containment in this set @return &lt;tt&gt;true&lt;tt&gt; if this set contains all of the elements of the specified collection @throws ClassCastException if the types of one or more elements in the specified collection are incompatible with this set (&lt;a href=&quot;Collection.htmloptional-restrictions&quot;&gt;optional&lt;a&gt;) @throws NullPointerException if the specified collection contains one or more null elements and this set does not permit null elements (&lt;a href=&quot;Collection.htmloptional-restrictions&quot;&gt;optional&lt;a&gt;), or if the specified collection is null @see contains(Object)" />
       <item value="匹配" />
       <item value="Reserved Code Cache Size" />
@@ -12,8 +16,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="10" />
-        <entry key="ENGLISH" value="11" />
+        <entry key="CHINESE" value="19" />
+        <entry key="ENGLISH" value="18" />
       </map>
     </option>
   </component>
