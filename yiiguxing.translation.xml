@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="469" />
     <histories>
+      <item value="Returns &lt;tt&gt;true&lt;tt&gt; if this set contains all of the elements of the specified collection. If the specified collection is also a set, this method returns &lt;tt&gt;true&lt;tt&gt; if it is a &lt;i&gt;subset&lt;i&gt; of this set. @param c collection to be checked for containment in this set @return &lt;tt&gt;true&lt;tt&gt; if this set contains all of the elements of the specified collection @throws ClassCastException if the types of one or more elements in the specified collection are incompatible with this set (&lt;a href=&quot;Collection.htmloptional-restrictions&quot;&gt;optional&lt;a&gt;) @throws NullPointerException if the specified collection contains one or more null elements and this set does not permit null elements (&lt;a href=&quot;Collection.htmloptional-restrictions&quot;&gt;optional&lt;a&gt;), or if the specified collection is null @see contains(Object)" />
       <item value="匹配" />
       <item value="Reserved Code Cache Size" />
       <item value="Compares the specified object with this list for equality. Returns &lt;tt&gt;true&lt;tt&gt; if and only if the specified object is also a list, both lists have the same size, and all corresponding pairs of elements in the two lists are &lt;i&gt;equal&lt;i&gt;. (Two elements &lt;tt&gt;e1&lt;tt&gt; and &lt;tt&gt;e2&lt;tt&gt; are &lt;i&gt;equal&lt;i&gt; if &lt;tt&gt;(e1==null ? e2==null : e1.equals(e2))&lt;tt&gt;.) In other words, two lists are defined to be equal if they contain the same elements in the same order. This definition ensures that the equals method works properly across different implementations of the &lt;tt&gt;List&lt;tt&gt; interface. @param o the object to be compared for equality with this list @return &lt;tt&gt;true&lt;tt&gt; if the specified object is equal to this list" />
@@ -11,8 +12,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="9" />
-        <entry key="ENGLISH" value="10" />
+        <entry key="CHINESE" value="10" />
+        <entry key="ENGLISH" value="11" />
       </map>
     </option>
   </component>
