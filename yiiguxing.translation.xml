@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogX" value="664" />
+    <option name="newTranslationDialogY" value="469" />
     <histories>
+      <item value="匹配" />
       <item value="Reserved Code Cache Size" />
       <item value="Compares the specified object with this list for equality. Returns &lt;tt&gt;true&lt;tt&gt; if and only if the specified object is also a list, both lists have the same size, and all corresponding pairs of elements in the two lists are &lt;i&gt;equal&lt;i&gt;. (Two elements &lt;tt&gt;e1&lt;tt&gt; and &lt;tt&gt;e2&lt;tt&gt; are &lt;i&gt;equal&lt;i&gt; if &lt;tt&gt;(e1==null ? e2==null : e1.equals(e2))&lt;tt&gt;.) In other words, two lists are defined to be equal if they contain the same elements in the same order. This definition ensures that the equals method works properly across different implementations of the &lt;tt&gt;List&lt;tt&gt; interface. @param o the object to be compared for equality with this list @return &lt;tt&gt;true&lt;tt&gt; if the specified object is equal to this list" />
       <item value="perm" />
@@ -8,8 +11,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="4" />
+        <entry key="CHINESE" value="9" />
+        <entry key="ENGLISH" value="10" />
       </map>
     </option>
   </component>
