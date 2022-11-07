@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="469" />
     <histories>
+      <item value="Absent" />
       <item value="Client" />
       <item value="Unite" />
       <item value="统一" />
@@ -18,7 +19,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="19" />
-        <entry key="ENGLISH" value="19" />
+        <entry key="ENGLISH" value="20" />
       </map>
     </option>
   </component>
