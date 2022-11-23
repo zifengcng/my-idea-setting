@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="469" />
     <histories>
+      <item value="Prepared" />
       <item value="去重" />
       <item value="hook" />
       <item value="lynx" />
@@ -29,11 +30,11 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="37" />
-        <entry key="ENGLISH" value="36" />
+        <entry key="ENGLISH" value="37" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1668655165506" />
+    <option name="lastTrimTime" value="1669186815999" />
   </component>
 </application>
