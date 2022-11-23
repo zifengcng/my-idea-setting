@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="469" />
     <histories>
+      <item value="unexcepted branch" />
       <item value="cursor" />
       <item value="Prepared" />
       <item value="去重" />
@@ -31,7 +32,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="38" />
-        <entry key="ENGLISH" value="37" />
+        <entry key="ENGLISH" value="38" />
       </map>
     </option>
   </component>
