@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="469" />
     <histories>
+      <item value="artifacts" />
+      <item value="ar" />
       <item value="comment" />
       <item value="comments" />
       <item value="处理comments" />
@@ -41,7 +43,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="62" />
+        <entry key="CHINESE" value="63" />
         <entry key="ENGLISH" value="61" />
       </map>
     </option>
