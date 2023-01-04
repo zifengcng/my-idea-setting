@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="469" />
     <histories>
+      <item value="场景" />
+      <item value="scenes" />
+      <item value="c" />
+      <item value="scense" />
       <item value="artifacts" />
       <item value="ar" />
       <item value="comment" />
@@ -13,7 +17,6 @@
       <item value="z" />
       <item value="支持" />
       <item value="重复" />
-      <item value="c" />
       <item value="shrink" />
       <item value="unexcepted branch" />
       <item value="cursor" />
@@ -43,12 +46,12 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="63" />
-        <entry key="ENGLISH" value="61" />
+        <entry key="CHINESE" value="66" />
+        <entry key="ENGLISH" value="64" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1672035222312" />
+    <option name="lastTrimTime" value="1672824355248" />
   </component>
 </application>
