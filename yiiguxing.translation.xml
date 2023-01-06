@@ -3,6 +3,14 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="469" />
     <histories>
+      <item value="拆分" />
+      <item value="c" />
+      <item value=" split Indicator" />
+      <item value="Indicator" />
+      <item value="Indicator split" />
+      <item value="指标拆分" />
+      <item value="指标f" />
+      <item value="RelevantIndexes" />
       <item value="指标" />
       <item value="z" />
       <item value="indicators" />
@@ -10,7 +18,6 @@
       <item value="warning" />
       <item value="场景" />
       <item value="scenes" />
-      <item value="c" />
       <item value="scense" />
       <item value="artifacts" />
       <item value="ar" />
@@ -46,12 +53,11 @@
       <item value="Reserved Code Cache Size" />
       <item value="Compares the specified object with this list for equality. Returns &lt;tt&gt;true&lt;tt&gt; if and only if the specified object is also a list, both lists have the same size, and all corresponding pairs of elements in the two lists are &lt;i&gt;equal&lt;i&gt;. (Two elements &lt;tt&gt;e1&lt;tt&gt; and &lt;tt&gt;e2&lt;tt&gt; are &lt;i&gt;equal&lt;i&gt; if &lt;tt&gt;(e1==null ? e2==null : e1.equals(e2))&lt;tt&gt;.) In other words, two lists are defined to be equal if they contain the same elements in the same order. This definition ensures that the equals method works properly across different implementations of the &lt;tt&gt;List&lt;tt&gt; interface. @param o the object to be compared for equality with this list @return &lt;tt&gt;true&lt;tt&gt; if the specified object is equal to this list" />
       <item value="perm" />
-      <item value="lookup parent from repository" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="76" />
-        <entry key="ENGLISH" value="74" />
+        <entry key="CHINESE" value="94" />
+        <entry key="ENGLISH" value="92" />
       </map>
     </option>
   </component>
