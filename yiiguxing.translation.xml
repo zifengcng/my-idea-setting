@@ -3,6 +3,14 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="469" />
     <histories>
+      <item value="datamix" />
+      <item value="data-mix" />
+      <item value="data-mix-auth" />
+      <item value="data-mix-" />
+      <item value="data" />
+      <item value="mix" />
+      <item value="权限" />
+      <item value="auth" />
       <item value="wired" />
       <item value="compressor" />
       <item value="resident" />
@@ -45,19 +53,11 @@
       <item value="转换" />
       <item value="H'u'a'n" />
       <item value="处理" />
-      <item value="预览" />
-      <item value="locale" />
-      <item value="shape" />
-      <item value="白名单" />
-      <item value="b" />
-      <item value="包含" />
-      <item value="bao" />
-      <item value="自动开通" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="299" />
-        <entry key="ENGLISH" value="299" />
+        <entry key="CHINESE" value="315" />
+        <entry key="ENGLISH" value="313" />
         <entry key="ITALIAN" value="1" />
       </map>
     </option>
