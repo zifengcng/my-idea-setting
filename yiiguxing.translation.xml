@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="469" />
     <histories>
+      <item value="提交" />
+      <item value="t" />
       <item value="index" />
       <item value="indexes" />
       <item value="拆分" />
@@ -53,13 +55,11 @@
       <item value="非级联维度" />
       <item value="disabled" />
       <item value="有序" />
-      <item value="y" />
-      <item value="equals" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="388" />
-        <entry key="ENGLISH" value="383" />
+        <entry key="CHINESE" value="395" />
+        <entry key="ENGLISH" value="390" />
         <entry key="ITALIAN" value="1" />
       </map>
     </option>
