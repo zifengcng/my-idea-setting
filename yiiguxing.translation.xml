@@ -5,11 +5,14 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="469" />
     <histories>
+      <item value="拆分项" />
+      <item value="拆分xiang" />
+      <item value="拆分" />
+      <item value="拆分享" />
       <item value="提交" />
       <item value="t" />
       <item value="index" />
       <item value="indexes" />
-      <item value="拆分" />
       <item value="过程" />
       <item value="c" />
       <item value="Reply VO" />
@@ -52,14 +55,11 @@
       <item value="octet" />
       <item value="disposition" />
       <item value="Compress" />
-      <item value="非级联维度" />
-      <item value="disabled" />
-      <item value="有序" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="395" />
-        <entry key="ENGLISH" value="390" />
+        <entry key="CHINESE" value="407" />
+        <entry key="ENGLISH" value="402" />
         <entry key="ITALIAN" value="1" />
       </map>
     </option>
