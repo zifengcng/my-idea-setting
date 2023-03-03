@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="469" />
     <histories>
+      <item value="draft" />
+      <item value="分析" />
+      <item value="f" />
       <item value="运营" />
       <item value="dept" />
       <item value="de" />
@@ -52,14 +55,11 @@
       <item value="tip" />
       <item value="Sync" />
       <item value="Dispose" />
-      <item value="倒序" />
-      <item value="dao'xu" />
-      <item value="d" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="419" />
-        <entry key="ENGLISH" value="414" />
+        <entry key="CHINESE" value="425" />
+        <entry key="ENGLISH" value="419" />
         <entry key="ITALIAN" value="1" />
       </map>
     </option>
