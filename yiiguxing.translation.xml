@@ -3,8 +3,21 @@
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="267" />
     <option name="newTranslationDialogX" value="664" />
-    <option name="newTranslationDialogY" value="469" />
+    <option name="newTranslationDialogY" value="457" />
     <histories>
+      <item value="左括" />
+      <item value="zuo'kuo" />
+      <item value="左" />
+      <item value="左括号" />
+      <item value="zuo'k" />
+      <item value="bracket" />
+      <item value="multiply" />
+      <item value="乘" />
+      <item value="cheng" />
+      <item value="减" />
+      <item value="加减" />
+      <item value="jia'jian" />
+      <item value="+" />
       <item value="负相关" />
       <item value="正相关" />
       <item value="EQUAL" />
@@ -42,24 +55,11 @@
       <item value="权限" />
       <item value="permission" />
       <item value="perm" />
-      <item value="data-mix" />
-      <item value="data-mix-auth" />
-      <item value="data-mix-" />
-      <item value="data" />
-      <item value="mix" />
-      <item value="auth" />
-      <item value="wired" />
-      <item value="compressor" />
-      <item value="resident" />
-      <item value="method" />
-      <item value="减少" />
-      <item value="限流" />
-      <item value="Limit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="431" />
-        <entry key="ENGLISH" value="426" />
+        <entry key="CHINESE" value="467" />
+        <entry key="ENGLISH" value="462" />
         <entry key="ITALIAN" value="1" />
       </map>
     </option>
