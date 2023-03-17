@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Rolling File" />
       <item value="Non" />
       <item value="不" />
       <item value="no" />
@@ -54,12 +55,11 @@
       <item value="dept" />
       <item value="de" />
       <item value="拆分项" />
-      <item value="拆分xiang" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="500" />
-        <entry key="ENGLISH" value="494" />
+        <entry key="ENGLISH" value="495" />
         <entry key="LITHUANIAN" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
