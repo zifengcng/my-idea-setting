@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Non" />
+      <item value="不" />
+      <item value="no" />
+      <item value="not" />
+      <item value="None" />
       <item value="identifier" />
       <item value="midnight" />
       <item value="变更" />
@@ -50,16 +55,11 @@
       <item value="de" />
       <item value="拆分项" />
       <item value="拆分xiang" />
-      <item value="拆分" />
-      <item value="拆分享" />
-      <item value="提交" />
-      <item value="t" />
-      <item value="index" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="495" />
-        <entry key="ENGLISH" value="490" />
+        <entry key="CHINESE" value="500" />
+        <entry key="ENGLISH" value="494" />
         <entry key="LITHUANIAN" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
