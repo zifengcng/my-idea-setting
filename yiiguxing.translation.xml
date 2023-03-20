@@ -5,6 +5,14 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="&lt;li&gt;{@code PID} is set to the value of the current process ID if it can be determined. &lt;li&gt;" />
+      <item value="&lt;li&gt;{@code LOG_FILE} is set to the value of path of the log file that should be written (if any).&lt;li&gt;" />
+      <item value="Some system properties may be set as side effects, and these can be useful if the logging configuration supports placeholders (i.e. log4j or logback):" />
+      <item value="If a log file is required, the {@code logging.file.path} and {@code logging.file.name} properties can be used." />
+      <item value="log output is only written to the console" />
+      <item value="We see all the key information in the logs, such as which property file, key, line number, and replacement key pertains to each entry. This helps us easily identify and replace all such properties. Additionally, the module replaces these properties with available replacements at runtime, allowing us to be able to run the application without having to make any changes." />
+      <item value="Replacement" />
+      <item value="via" />
       <item value="Rolling File" />
       <item value="Non" />
       <item value="不" />
@@ -47,19 +55,11 @@
       <item value="analyze" />
       <item value="analyse" />
       <item value="analyse\\" />
-      <item value="a'na" />
-      <item value="draft" />
-      <item value="分析" />
-      <item value="f" />
-      <item value="运营" />
-      <item value="dept" />
-      <item value="de" />
-      <item value="拆分项" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="500" />
-        <entry key="ENGLISH" value="495" />
+        <entry key="CHINESE" value="508" />
+        <entry key="ENGLISH" value="505" />
         <entry key="LITHUANIAN" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
