@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Back up and cut the current log" />
+      <item value="Empty files are not dumped" />
       <item value="&lt;li&gt;{@code PID} is set to the value of the current process ID if it can be determined. &lt;li&gt;" />
       <item value="&lt;li&gt;{@code LOG_FILE} is set to the value of path of the log file that should be written (if any).&lt;li&gt;" />
       <item value="Some system properties may be set as side effects, and these can be useful if the logging configuration supports placeholders (i.e. log4j or logback):" />
@@ -53,13 +55,11 @@
       <item value="运算符" />
       <item value="approvers" />
       <item value="analyze" />
-      <item value="analyse" />
-      <item value="analyse\\" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="508" />
-        <entry key="ENGLISH" value="505" />
+        <entry key="CHINESE" value="510" />
+        <entry key="ENGLISH" value="506" />
         <entry key="LITHUANIAN" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
