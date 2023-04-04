@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="asset" />
       <item value="Executed after the delay specified with" />
       <item value="only update the state it will be removed from HashedWheelBucket on next tick." />
       <item value="cancel" />
@@ -54,11 +55,10 @@
       <item value="左" />
       <item value="左括号" />
       <item value="zuo'k" />
-      <item value="bracket" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="521" />
+        <entry key="CHINESE" value="522" />
         <entry key="ENGLISH" value="522" />
         <entry key="LITHUANIAN" value="1" />
         <entry key="ITALIAN" value="1" />
