@@ -18,6 +18,10 @@
           <option name="url" value="git@coding.jd.com:data-auth-system/data-auth.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@coding.jd.com:ge-micro-web/datamix-base.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="/usr/local/dev/IdeaProjects" />

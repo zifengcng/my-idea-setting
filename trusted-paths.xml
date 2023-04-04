@@ -1,0 +1,9 @@
+<application>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="/usr/local/dev/IdeaProjects" />
+      </list>
+    </option>
+  </component>
+</application>
