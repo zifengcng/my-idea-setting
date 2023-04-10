@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="compile" />
       <item value="Used to calculate the various classpaths used for compilation, testing, and so on. It also assists in determining which artifacts to include in a distribution of this project. For more information" />
       <item value="flexible" />
       <item value="collisions" />
@@ -54,12 +55,11 @@
       <item value="撤回" />
       <item value="已撤回" />
       <item value="进行中" />
-      <item value="排除" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="527" />
-        <entry key="ENGLISH" value="528" />
+        <entry key="CHINESE" value="528" />
+        <entry key="ENGLISH" value="529" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="LITHUANIAN" value="1" />
         <entry key="ITALIAN" value="1" />
@@ -67,6 +67,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1680506068383" />
+    <option name="lastTrimTime" value="1681094840711" />
   </component>
 </application>
