@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="This syntax cannot be used to create type literals that have wildcard parameters, such as {@code Class&lt;?&gt;} or {@code List&lt;? extends CharSequence&gt;}." />
+      <item value="ava doesn't yet provide a way to represent generic types, so this class does" />
       <item value="Cacheable" />
       <item value="proceed" />
       <item value="Async Appender" />
@@ -53,13 +55,11 @@
       <item value="变更" />
       <item value="Parama" />
       <item value="指标分析模型" />
-      <item value="reject" />
-      <item value="驳回" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="532" />
-        <entry key="ENGLISH" value="532" />
+        <entry key="CHINESE" value="533" />
+        <entry key="ENGLISH" value="534" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="LITHUANIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
