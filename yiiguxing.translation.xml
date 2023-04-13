@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Indicate that the proxy should be exposed by the AOP framework as a ThreadLocal for retrieval via the org.springframework.aop.framework.AopContext class. Off by default, i.e. no guarantees that AopContext access will work." />
+      <item value="Indicate whether subclass-based (CGLIB) proxies are to be created as opposed to standard Java interface-based proxies. The default is false." />
       <item value="This syntax cannot be used to create type literals that have wildcard parameters, such as {@code Class&lt;?&gt;} or {@code List&lt;? extends CharSequence&gt;}." />
       <item value="ava doesn't yet provide a way to represent generic types, so this class does" />
       <item value="Cacheable" />
@@ -53,13 +55,11 @@
       <item value="identifier" />
       <item value="midnight" />
       <item value="变更" />
-      <item value="Parama" />
-      <item value="指标分析模型" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="533" />
-        <entry key="ENGLISH" value="534" />
+        <entry key="CHINESE" value="535" />
+        <entry key="ENGLISH" value="536" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="LITHUANIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
