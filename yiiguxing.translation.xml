@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="External" />
       <item value="Indicate that the proxy should be exposed by the AOP framework as a ThreadLocal for retrieval via the org.springframework.aop.framework.AopContext class. Off by default, i.e. no guarantees that AopContext access will work." />
       <item value="Indicate whether subclass-based (CGLIB) proxies are to be created as opposed to standard Java interface-based proxies. The default is false." />
       <item value="This syntax cannot be used to create type literals that have wildcard parameters, such as {@code Class&lt;?&gt;} or {@code List&lt;? extends CharSequence&gt;}." />
@@ -21,7 +22,6 @@
       <item value="issuer" />
       <item value="Issuer" />
       <item value="Biz" />
-      <item value="External" />
       <item value="asset" />
       <item value="Executed after the delay specified with" />
       <item value="only update the state it will be removed from HashedWheelBucket on next tick." />
@@ -58,8 +58,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="535" />
-        <entry key="ENGLISH" value="536" />
+        <entry key="CHINESE" value="536" />
+        <entry key="ENGLISH" value="537" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="LITHUANIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
