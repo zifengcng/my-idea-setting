@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Valid" />
       <item value="Switch" />
       <item value="Swtich" />
       <item value="Unrecognized option" />
@@ -54,12 +55,11 @@
       <item value="不" />
       <item value="no" />
       <item value="not" />
-      <item value="None" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="538" />
-        <entry key="ENGLISH" value="538" />
+        <entry key="ENGLISH" value="539" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="LITHUANIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
