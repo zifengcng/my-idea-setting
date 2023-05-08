@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="ensure priority is higher than transaction AOP" />
       <item value="leaf" />
       <item value="末级" />
       <item value="子部门" />
@@ -54,12 +55,11 @@
       <item value="We see all the key information in the logs, such as which property file, key, line number, and replacement key pertains to each entry. This helps us easily identify and replace all such properties. Additionally, the module replaces these properties with available replacements at runtime, allowing us to be able to run the application without having to make any changes." />
       <item value="Replacement" />
       <item value="via" />
-      <item value="Rolling File" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="550" />
-        <entry key="ENGLISH" value="549" />
+        <entry key="ENGLISH" value="550" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="LITHUANIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
