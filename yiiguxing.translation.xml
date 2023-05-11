@@ -5,9 +5,9 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="431" />
     <histories>
+      <item value="ensure priority is higher than transaction AOP" />
       <item value="log" />
       <item value="记录" />
-      <item value="ensure priority is higher than transaction AOP" />
       <item value="leaf" />
       <item value="末级" />
       <item value="子部门" />
@@ -59,7 +59,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="566" />
-        <entry key="ENGLISH" value="565" />
+        <entry key="ENGLISH" value="566" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="LITHUANIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
