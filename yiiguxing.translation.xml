@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="431" />
     <histories>
+      <item value="uds" />
       <item value="ensure priority is higher than transaction AOP" />
       <item value="log" />
       <item value="记录" />
@@ -54,11 +55,10 @@
       <item value="Some system properties may be set as side effects, and these can be useful if the logging configuration supports placeholders (i.e. log4j or logback):" />
       <item value="If a log file is required, the {@code logging.file.path} and {@code logging.file.name} properties can be used." />
       <item value="log output is only written to the console" />
-      <item value="We see all the key information in the logs, such as which property file, key, line number, and replacement key pertains to each entry. This helps us easily identify and replace all such properties. Additionally, the module replaces these properties with available replacements at runtime, allowing us to be able to run the application without having to make any changes." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="566" />
+        <entry key="CHINESE" value="567" />
         <entry key="ENGLISH" value="566" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="LITHUANIAN" value="1" />
