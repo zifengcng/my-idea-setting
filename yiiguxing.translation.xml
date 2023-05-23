@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="431" />
     <histories>
+      <item value="the upper bound (exclusive)" />
+      <item value="the least value returned" />
       <item value="uds" />
       <item value="ensure priority is higher than transaction AOP" />
       <item value="log" />
@@ -53,13 +55,11 @@
       <item value="&lt;li&gt;{@code PID} is set to the value of the current process ID if it can be determined. &lt;li&gt;" />
       <item value="&lt;li&gt;{@code LOG_FILE} is set to the value of path of the log file that should be written (if any).&lt;li&gt;" />
       <item value="Some system properties may be set as side effects, and these can be useful if the logging configuration supports placeholders (i.e. log4j or logback):" />
-      <item value="If a log file is required, the {@code logging.file.path} and {@code logging.file.name} properties can be used." />
-      <item value="log output is only written to the console" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="567" />
-        <entry key="ENGLISH" value="566" />
+        <entry key="ENGLISH" value="568" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="LITHUANIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
@@ -68,6 +68,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1683718475359" />
+    <option name="lastTrimTime" value="1684855129858" />
   </component>
 </application>
