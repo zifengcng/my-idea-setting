@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="431" />
     <histories>
+      <item value="maximum" />
+      <item value="unit of the tickD" />
       <item value="app" />
       <item value="STRINGDECODE" />
       <item value="Unique index or primary key violation" />
@@ -53,13 +55,11 @@
       <item value="Black List" />
       <item value="thematic" />
       <item value="additivity" />
-      <item value="block" />
-      <item value="Back up and cut the current log" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="571" />
-        <entry key="ENGLISH" value="571" />
+        <entry key="CHINESE" value="572" />
+        <entry key="ENGLISH" value="573" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="LITHUANIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
