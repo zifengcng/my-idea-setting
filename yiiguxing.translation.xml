@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="431" />
     <histories>
+      <item value="app" />
       <item value="STRINGDECODE" />
       <item value="Unique index or primary key violation" />
       <item value="\u 5 c 97\u 4 f 4 d 6" />
@@ -54,11 +55,10 @@
       <item value="additivity" />
       <item value="block" />
       <item value="Back up and cut the current log" />
-      <item value="Empty files are not dumped" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="570" />
+        <entry key="CHINESE" value="571" />
         <entry key="ENGLISH" value="571" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="LITHUANIAN" value="1" />
@@ -68,6 +68,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1684855129858" />
+    <option name="lastTrimTime" value="1685341459480" />
   </component>
 </application>
