@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="284" />
+    <option name="newTranslationDialogHeight" value="301" />
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="431" />
     <histories>
+      <item value="phoenix" />
+      <item value="tangram" />
       <item value="maximum" />
       <item value="unit of the tickD" />
       <item value="app" />
@@ -53,12 +55,10 @@
       <item value="additional Time" />
       <item value="elon" />
       <item value="Black List" />
-      <item value="thematic" />
-      <item value="additivity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="572" />
+        <entry key="CHINESE" value="574" />
         <entry key="ENGLISH" value="573" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="LITHUANIAN" value="1" />
