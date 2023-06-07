@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="431" />
     <histories>
+      <item value="approver" />
       <item value="list" />
       <item value="fuzzy Search" />
       <item value="fuzzy" />
@@ -54,12 +55,11 @@
       <item value="Issuer" />
       <item value="Biz" />
       <item value="asset" />
-      <item value="Executed after the delay specified with" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="579" />
-        <entry key="ENGLISH" value="579" />
+        <entry key="ENGLISH" value="580" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="LITHUANIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
