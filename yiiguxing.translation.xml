@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="431" />
     <histories>
+      <item value="colleague" />
+      <item value="同事" />
+      <item value="Retail Overall" />
       <item value="Outer" />
       <item value="Finance" />
       <item value="intersection" />
@@ -52,14 +55,11 @@
       <item value="only update the state it will be removed from HashedWheelBucket on next tick." />
       <item value="cancel" />
       <item value="Hashed Wheel Bucket" />
-      <item value="threshold" />
-      <item value="expiration" />
-      <item value="delay" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="575" />
-        <entry key="ENGLISH" value="576" />
+        <entry key="CHINESE" value="577" />
+        <entry key="ENGLISH" value="577" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="LITHUANIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
