@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="431" />
     <histories>
+      <item value="Context" />
       <item value="Comments" />
       <item value="approve" />
       <item value="PENDING" />
@@ -54,12 +55,11 @@
       <item value="flexible" />
       <item value="collisions" />
       <item value="com.jd.bpp.paas:phoenix-api:pom:2.3.1-RELEASE was not found in https://maven.aliyun.com/repository/public during a previous attempt. This failure was cached in the local repository and resolution is not reattempted until the update interval of aliyun has elapsed or updates are forced&#10;" />
-      <item value="issuer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="582" />
-        <entry key="ENGLISH" value="583" />
+        <entry key="CHINESE" value="583" />
+        <entry key="ENGLISH" value="584" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="LITHUANIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
