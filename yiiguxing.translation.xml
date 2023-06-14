@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="431" />
     <histories>
+      <item value="Audit" />
       <item value="Colleague" />
       <item value="Context" />
       <item value="Comments" />
@@ -54,12 +55,11 @@
       <item value="compile" />
       <item value="Used to calculate the various classpaths used for compilation, testing, and so on. It also assists in determining which artifacts to include in a distribution of this project. For more information" />
       <item value="flexible" />
-      <item value="collisions" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="584" />
-        <entry key="ENGLISH" value="585" />
+        <entry key="CHINESE" value="585" />
+        <entry key="ENGLISH" value="586" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="LITHUANIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
