@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="420" />
     <histories>
+      <item value="权限" />
+      <item value="有权限" />
+      <item value="yo" />
+      <item value="compute Permission Res" />
+      <item value="计算岗中有权限的资源" />
       <item value="关系" />
       <item value="retailoverall" />
       <item value="retail" />
@@ -50,16 +55,11 @@
       <item value="记录" />
       <item value="leaf" />
       <item value="末级" />
-      <item value="子部门" />
-      <item value="Privilege" />
-      <item value="Valid" />
-      <item value="Switch" />
-      <item value="Swtich" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="601" />
-        <entry key="ENGLISH" value="600" />
+        <entry key="CHINESE" value="627" />
+        <entry key="ENGLISH" value="627" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="LITHUANIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
