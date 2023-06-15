@@ -3,8 +3,13 @@
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="301" />
     <option name="newTranslationDialogX" value="664" />
-    <option name="newTranslationDialogY" value="431" />
+    <option name="newTranslationDialogY" value="420" />
     <histories>
+      <item value="retailoverall" />
+      <item value="retail" />
+      <item value="零售" />
+      <item value="零售大盘" />
+      <item value="常规申请" />
       <item value="closest" />
       <item value="最接近" />
       <item value="最近" />
@@ -50,16 +55,11 @@
       <item value="Switch" />
       <item value="Swtich" />
       <item value="Unrecognized option" />
-      <item value="External" />
-      <item value="Indicate that the proxy should be exposed by the AOP framework as a ThreadLocal for retrieval via the org.springframework.aop.framework.AopContext class. Off by default, i.e. no guarantees that AopContext access will work." />
-      <item value="Indicate whether subclass-based (CGLIB) proxies are to be created as opposed to standard Java interface-based proxies. The default is false." />
-      <item value="This syntax cannot be used to create type literals that have wildcard parameters, such as {@code Class&lt;?&gt;} or {@code List&lt;? extends CharSequence&gt;}." />
-      <item value="ava doesn't yet provide a way to represent generic types, so this class does" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="590" />
-        <entry key="ENGLISH" value="590" />
+        <entry key="CHINESE" value="594" />
+        <entry key="ENGLISH" value="593" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="LITHUANIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
