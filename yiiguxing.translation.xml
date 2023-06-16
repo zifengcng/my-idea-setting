@@ -3,8 +3,13 @@
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="301" />
     <option name="newTranslationDialogX" value="664" />
-    <option name="newTranslationDialogY" value="420" />
+    <option name="newTranslationDialogY" value="414" />
     <histories>
+      <item value="none" />
+      <item value="no" />
+      <item value="有用" />
+      <item value="y" />
+      <item value="valid" />
       <item value="权限" />
       <item value="有权限" />
       <item value="yo" />
@@ -50,16 +55,11 @@
       <item value="the upper bound (exclusive)" />
       <item value="the least value returned" />
       <item value="uds" />
-      <item value="ensure priority is higher than transaction AOP" />
-      <item value="log" />
-      <item value="记录" />
-      <item value="leaf" />
-      <item value="末级" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="627" />
-        <entry key="ENGLISH" value="627" />
+        <entry key="CHINESE" value="639" />
+        <entry key="ENGLISH" value="637" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="LITHUANIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
