@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="414" />
     <histories>
+      <item value="the" />
       <item value="转换" />
       <item value="tran" />
       <item value="trans" />
@@ -54,12 +55,11 @@
       <item value="colleague" />
       <item value="同事" />
       <item value="Retail Overall" />
-      <item value="Outer" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="650" />
-        <entry key="ENGLISH" value="648" />
+        <entry key="ENGLISH" value="649" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="LITHUANIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
