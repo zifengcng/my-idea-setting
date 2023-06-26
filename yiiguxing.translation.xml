@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="414" />
     <histories>
+      <item value="最下级" />
       <item value="相同" />
       <item value="同分支" />
       <item value="tong分支" />
@@ -54,12 +55,11 @@
       <item value="Colleague" />
       <item value="Context" />
       <item value="Comments" />
-      <item value="approve" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="673" />
-        <entry key="ENGLISH" value="673" />
+        <entry key="CHINESE" value="674" />
+        <entry key="ENGLISH" value="674" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="LITHUANIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
