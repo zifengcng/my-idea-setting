@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="414" />
     <histories>
+      <item value="transform" />
       <item value="运营" />
       <item value="最下级" />
       <item value="相同" />
@@ -54,12 +55,11 @@
       <item value="transfer" />
       <item value="Audit" />
       <item value="Colleague" />
-      <item value="Context" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="675" />
-        <entry key="ENGLISH" value="675" />
+        <entry key="ENGLISH" value="676" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="LITHUANIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
