@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="414" />
     <histories>
+      <item value="Business" />
       <item value="Immutable Map" />
       <item value="handler" />
       <item value="had" />
@@ -54,12 +55,11 @@
       <item value="closest" />
       <item value="最接近" />
       <item value="最近" />
-      <item value="近" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="677" />
-        <entry key="ENGLISH" value="678" />
+        <entry key="CHINESE" value="678" />
+        <entry key="ENGLISH" value="679" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="LITHUANIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
