@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="414" />
     <histories>
+      <item value="清除" />
       <item value="业务域" />
     </histories>
     <option name="languageScores">
@@ -19,6 +20,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1687675429064" />
+    <option name="lastTrimTime" value="1688119447241" />
   </component>
 </application>
