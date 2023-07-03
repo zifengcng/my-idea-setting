@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="414" />
     <histories>
+      <item value="集团" />
+      <item value="范围" />
+      <item value="f" />
+      <item value="子集团" />
       <item value="schedule" />
       <item value="schedue" />
       <item value="schedu" />
@@ -16,8 +20,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="688" />
-        <entry key="ENGLISH" value="687" />
+        <entry key="CHINESE" value="710" />
+        <entry key="ENGLISH" value="709" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="LITHUANIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
