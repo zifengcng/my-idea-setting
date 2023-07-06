@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="414" />
     <histories>
+      <item value="Returns {@code true} if the request is a valid CORS pre-flight one." />
+      <item value="valid" />
       <item value="convert" />
       <item value="transform" />
       <item value="transfer" />
@@ -26,7 +28,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="712" />
-        <entry key="ENGLISH" value="710" />
+        <entry key="ENGLISH" value="712" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="LITHUANIAN" value="1" />
