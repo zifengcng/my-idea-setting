@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="414" />
     <histories>
+      <item value="criteria" />
+      <item value="criterions" />
       <item value="模板" />
       <item value="文案" />
       <item value="预警文案" />
@@ -38,7 +40,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="735" />
+        <entry key="CHINESE" value="737" />
         <entry key="ENGLISH" value="735" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="CATALAN" value="1" />
