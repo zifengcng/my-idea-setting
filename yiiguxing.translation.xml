@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="414" />
     <histories>
+      <item value="必填" />
+      <item value="bi'tian" />
+      <item value="bi'tai'n" />
+      <item value="逼太嫩" />
       <item value="criteria" />
       <item value="PARAMA" />
       <item value="AGGR" />
@@ -42,8 +46,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="739" />
-        <entry key="ENGLISH" value="735" />
+        <entry key="CHINESE" value="757" />
+        <entry key="ENGLISH" value="753" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="LITHUANIAN" value="2" />
@@ -53,6 +57,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1688634757680" />
+    <option name="lastTrimTime" value="1689220903271" />
   </component>
 </application>
