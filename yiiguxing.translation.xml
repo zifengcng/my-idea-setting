@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="414" />
     <histories>
+      <item value="tip Processor Info" />
+      <item value="Processor" />
       <item value="必填" />
       <item value="bi'tian" />
       <item value="bi'tai'n" />
@@ -47,7 +49,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="757" />
-        <entry key="ENGLISH" value="753" />
+        <entry key="ENGLISH" value="755" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="LITHUANIAN" value="2" />
