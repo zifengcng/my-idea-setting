@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="414" />
     <histories>
+      <item value="OPERATEION" />
       <item value="formator" />
       <item value="Time Advancements" />
       <item value="tip Processor Info" />
@@ -51,7 +52,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="757" />
-        <entry key="ENGLISH" value="756" />
+        <entry key="ENGLISH" value="757" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="LITHUANIAN" value="2" />
