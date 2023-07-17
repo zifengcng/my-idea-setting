@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="414" />
     <histories>
+      <item value="Programme" />
       <item value="EQUALs" />
       <item value="EQUAL" />
       <item value="介于之间" />
@@ -54,12 +55,11 @@
       <item value="transFer" />
       <item value="trans Fer" />
       <item value="集团" />
-      <item value="范围" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="791" />
-        <entry key="ENGLISH" value="788" />
+        <entry key="ENGLISH" value="789" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="LITHUANIAN" value="2" />
