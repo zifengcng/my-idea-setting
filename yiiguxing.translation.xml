@@ -5,6 +5,15 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="414" />
     <histories>
+      <item value="当期值" />
+      <item value="dang'qi'zhi" />
+      <item value="当期zhi" />
+      <item value="当期指" />
+      <item value="当qi" />
+      <item value="dang" />
+      <item value="档期" />
+      <item value="本期" />
+      <item value="ben'qi" />
       <item value="Programme" />
       <item value="EQUALs" />
       <item value="EQUAL" />
@@ -46,20 +55,11 @@
       <item value="触发规则" />
       <item value="触发预警规则" />
       <item value="触发" />
-      <item value="满足" />
-      <item value="Returns {@code true} if the request is a valid CORS pre-flight one." />
-      <item value="valid" />
-      <item value="convert" />
-      <item value="transform" />
-      <item value="transfer" />
-      <item value="transFer" />
-      <item value="trans Fer" />
-      <item value="集团" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="791" />
-        <entry key="ENGLISH" value="789" />
+        <entry key="CHINESE" value="820" />
+        <entry key="ENGLISH" value="818" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="LITHUANIAN" value="2" />
