@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="414" />
     <histories>
+      <item value="Destination" />
       <item value="Primitive" />
       <item value="当期值" />
       <item value="dang'qi'zhi" />
@@ -54,11 +55,10 @@
       <item value="预警" />
       <item value="trigger rule" />
       <item value="触发规则" />
-      <item value="触发预警规则" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="820" />
+        <entry key="CHINESE" value="821" />
         <entry key="ENGLISH" value="819" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="CATALAN" value="1" />
@@ -70,6 +70,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1689758020496" />
+    <option name="lastTrimTime" value="1690203543920" />
   </component>
 </application>
