@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="414" />
     <histories>
+      <item value="自建" />
       <item value="存在" />
       <item value="c" />
       <item value="Destination" />
@@ -54,12 +55,11 @@
       <item value="预警文案" />
       <item value="预警文旦" />
       <item value="预警" />
-      <item value="trigger rule" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="828" />
-        <entry key="ENGLISH" value="826" />
+        <entry key="CHINESE" value="829" />
+        <entry key="ENGLISH" value="827" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="LITHUANIAN" value="2" />
