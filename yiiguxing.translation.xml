@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="414" />
     <histories>
+      <item value="同比" />
+      <item value="indexes" />
+      <item value="indexs" />
+      <item value="index" />
+      <item value="率指标" />
       <item value="cooper" />
       <item value="coo" />
       <item value="cook" />
@@ -50,16 +55,11 @@
       <item value="除" />
       <item value="chu" />
       <item value="乘号" />
-      <item value="乘" />
-      <item value="cheng" />
-      <item value="减号" />
-      <item value="减" />
-      <item value="jian" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="854" />
-        <entry key="ENGLISH" value="853" />
+        <entry key="CHINESE" value="872" />
+        <entry key="ENGLISH" value="870" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="LITHUANIAN" value="2" />
@@ -70,6 +70,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1691465595111" />
+    <option name="lastTrimTime" value="1691995254697" />
   </component>
 </application>
