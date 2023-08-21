@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="414" />
     <histories>
+      <item value="时间粒度" />
+      <item value="s" />
+      <item value="COLON" />
       <item value="同比" />
       <item value="indexes" />
       <item value="indexs" />
@@ -52,14 +55,11 @@
       <item value="yi'huo" />
       <item value="division" />
       <item value="除号" />
-      <item value="除" />
-      <item value="chu" />
-      <item value="乘号" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="872" />
-        <entry key="ENGLISH" value="870" />
+        <entry key="CHINESE" value="880" />
+        <entry key="ENGLISH" value="879" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="LITHUANIAN" value="2" />
@@ -70,6 +70,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1691995254697" />
+    <option name="lastTrimTime" value="1692604585334" />
   </component>
 </application>
