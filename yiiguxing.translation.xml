@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="414" />
     <histories>
+      <item value="func" />
+      <item value="函数" />
       <item value="倍数" />
       <item value="multy" />
       <item value="multi" />
@@ -17,7 +19,6 @@
       <item value="xiang" />
       <item value="全局" />
       <item value="quan'ju" />
-      <item value="函数" />
       <item value="后连续" />
       <item value="后lia'xu" />
       <item value="后lia'nu" />
@@ -54,12 +55,11 @@
       <item value="cooker" />
       <item value="同步" />
       <item value="tong'b" />
-      <item value="not authorized to access" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="962" />
-        <entry key="ENGLISH" value="959" />
+        <entry key="CHINESE" value="973" />
+        <entry key="ENGLISH" value="969" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="LITHUANIAN" value="2" />
