@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="414" />
     <histories>
+      <item value="Param" />
       <item value="relation" />
       <item value="关系" />
       <item value="func" />
@@ -54,12 +55,11 @@
       <item value="cook" />
       <item value="cookp" />
       <item value="cookpe" />
-      <item value="cooker" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="987" />
-        <entry key="ENGLISH" value="983" />
+        <entry key="ENGLISH" value="984" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="LITHUANIAN" value="2" />
@@ -70,6 +70,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1692604585334" />
+    <option name="lastTrimTime" value="1693291148048" />
   </component>
 </application>
