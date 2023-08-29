@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="414" />
     <histories>
+      <item value="存在" />
+      <item value="c" />
+      <item value="有" />
       <item value="Param" />
       <item value="relation" />
       <item value="关系" />
@@ -52,14 +55,11 @@
       <item value="率指标" />
       <item value="cooper" />
       <item value="coo" />
-      <item value="cook" />
-      <item value="cookp" />
-      <item value="cookpe" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="987" />
-        <entry key="ENGLISH" value="984" />
+        <entry key="CHINESE" value="997" />
+        <entry key="ENGLISH" value="994" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="LITHUANIAN" value="2" />
