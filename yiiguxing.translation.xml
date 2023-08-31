@@ -5,6 +5,14 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="414" />
     <histories>
+      <item value="Field" />
+      <item value="Field Map" />
+      <item value="Deprecated" />
+      <item value="De" />
+      <item value="过" />
+      <item value="过q" />
+      <item value="过时" />
+      <item value="g" />
       <item value="vague" />
       <item value="vagu" />
       <item value="green" />
@@ -47,19 +55,11 @@
       <item value="后lia'nu" />
       <item value="后lian" />
       <item value="后l" />
-      <item value="后" />
-      <item value="均值" />
-      <item value="前连续时间同比" />
-      <item value="后连续时间同比" />
-      <item value="PostContinuousTimeYoy" />
-      <item value="PreviousContinuousTimeYoy" />
-      <item value="continue" />
-      <item value="continuous" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1064" />
-        <entry key="ENGLISH" value="1058" />
+        <entry key="CHINESE" value="1074" />
+        <entry key="ENGLISH" value="1070" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="LITHUANIAN" value="2" />
