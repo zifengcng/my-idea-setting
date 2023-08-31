@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="414" />
     <histories>
+      <item value="green" />
       <item value="失败类型" />
       <item value="失败" />
       <item value="s" />
@@ -54,11 +55,10 @@
       <item value="continuous" />
       <item value="before" />
       <item value="前" />
-      <item value="sequential" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1057" />
+        <entry key="CHINESE" value="1058" />
         <entry key="ENGLISH" value="1053" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="CATALAN" value="1" />
