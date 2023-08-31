@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="414" />
     <histories>
+      <item value="vague" />
+      <item value="vagu" />
       <item value="green" />
       <item value="失败类型" />
       <item value="失败" />
@@ -53,13 +55,11 @@
       <item value="PreviousContinuousTimeYoy" />
       <item value="continue" />
       <item value="continuous" />
-      <item value="before" />
-      <item value="前" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1058" />
-        <entry key="ENGLISH" value="1053" />
+        <entry key="CHINESE" value="1064" />
+        <entry key="ENGLISH" value="1058" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="LITHUANIAN" value="2" />
