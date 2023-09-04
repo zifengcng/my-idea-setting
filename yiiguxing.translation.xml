@@ -2,9 +2,16 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="301" />
-    <option name="newTranslationDialogX" value="883" />
-    <option name="newTranslationDialogY" value="366" />
+    <option name="newTranslationDialogX" value="1035" />
+    <option name="newTranslationDialogY" value="353" />
     <histories>
+      <item value="operation" />
+      <item value="operational" />
+      <item value="操作" />
+      <item value="c" />
+      <item value="算术表达式" />
+      <item value="OPERATION" />
+      <item value="OPERATEION" />
       <item value="calculate" />
       <item value="计算" />
       <item value="calculation" />
@@ -38,7 +45,6 @@
       <item value="达到" />
       <item value="满足" />
       <item value="满足条件" />
-      <item value="c" />
       <item value="达成" />
       <item value="operate" />
       <item value="存在" />
@@ -49,17 +55,11 @@
       <item value="func" />
       <item value="函数" />
       <item value="倍数" />
-      <item value="multy" />
-      <item value="multi" />
-      <item value="mult" />
-      <item value="倍" />
-      <item value="向前或后" />
-      <item value="向前/后" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1107" />
-        <entry key="ENGLISH" value="1101" />
+        <entry key="CHINESE" value="1116" />
+        <entry key="ENGLISH" value="1110" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="LITHUANIAN" value="2" />
