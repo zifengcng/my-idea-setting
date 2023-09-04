@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="883" />
     <option name="newTranslationDialogY" value="366" />
     <histories>
+      <item value="param" />
+      <item value="变量" />
       <item value="算术" />
       <item value="算shu" />
       <item value="算数" />
@@ -53,13 +55,11 @@
       <item value="向前" />
       <item value="xiang" />
       <item value="全局" />
-      <item value="quan'ju" />
-      <item value="后连续" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1084" />
-        <entry key="ENGLISH" value="1080" />
+        <entry key="CHINESE" value="1102" />
+        <entry key="ENGLISH" value="1097" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="LITHUANIAN" value="2" />
@@ -71,6 +71,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1693291148048" />
+    <option name="lastTrimTime" value="1693809696834" />
   </component>
 </application>
