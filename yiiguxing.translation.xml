@@ -1,10 +1,16 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="301" />
+    <option name="newTranslationDialogHeight" value="318" />
     <option name="newTranslationDialogX" value="1035" />
     <option name="newTranslationDialogY" value="353" />
     <histories>
+      <item value="escape" />
+      <item value="esca" />
+      <item value="es" />
+      <item value="redundant" />
+      <item value="redundat" />
+      <item value="red" />
       <item value="连续" />
       <item value="single" />
       <item value="singleton" />
@@ -49,17 +55,11 @@
       <item value="公式" />
       <item value="符合" />
       <item value="复合" />
-      <item value="达到" />
-      <item value="满足" />
-      <item value="满足条件" />
-      <item value="达成" />
-      <item value="operate" />
-      <item value="存在" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1122" />
-        <entry key="ENGLISH" value="1114" />
+        <entry key="CHINESE" value="1124" />
+        <entry key="ENGLISH" value="1115" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="LITHUANIAN" value="2" />
