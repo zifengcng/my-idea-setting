@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1035" />
     <option name="newTranslationDialogY" value="353" />
     <histories>
+      <item value="comments" />
       <item value="escape" />
       <item value="esca" />
       <item value="es" />
@@ -54,11 +55,10 @@
       <item value="d" />
       <item value="公式" />
       <item value="符合" />
-      <item value="复合" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1124" />
+        <entry key="CHINESE" value="1125" />
         <entry key="ENGLISH" value="1115" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="CATALAN" value="1" />
