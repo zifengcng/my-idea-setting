@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="1035" />
     <option name="newTranslationDialogY" value="353" />
     <histories>
+      <item value="匹配" />
+      <item value="pei'pei" />
       <item value="comments" />
       <item value="escape" />
       <item value="esca" />
@@ -53,13 +55,11 @@
       <item value="值" />
       <item value="对比值" />
       <item value="d" />
-      <item value="公式" />
-      <item value="符合" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1125" />
-        <entry key="ENGLISH" value="1115" />
+        <entry key="CHINESE" value="1140" />
+        <entry key="ENGLISH" value="1130" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="LITHUANIAN" value="2" />
