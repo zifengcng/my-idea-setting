@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1035" />
     <option name="newTranslationDialogY" value="353" />
     <histories>
+      <item value="get Rule Param List" />
       <item value="时间进度" />
       <item value="sequential" />
       <item value="匹配" />
@@ -54,12 +55,11 @@
       <item value="失败" />
       <item value="s" />
       <item value="值" />
-      <item value="对比值" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1142" />
-        <entry key="ENGLISH" value="1131" />
+        <entry key="ENGLISH" value="1132" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="LITHUANIAN" value="2" />
