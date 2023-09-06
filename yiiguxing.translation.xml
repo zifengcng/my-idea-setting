@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="1035" />
     <option name="newTranslationDialogY" value="353" />
     <histories>
+      <item value="变量" />
+      <item value="参数" />
       <item value="get Rule Param List" />
       <item value="时间进度" />
       <item value="sequential" />
@@ -35,7 +37,6 @@
       <item value="calculation" />
       <item value="规则计算" />
       <item value="param" />
-      <item value="变量" />
       <item value="算术" />
       <item value="算shu" />
       <item value="算数" />
@@ -54,12 +55,11 @@
       <item value="失败类型" />
       <item value="失败" />
       <item value="s" />
-      <item value="值" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1142" />
-        <entry key="ENGLISH" value="1132" />
+        <entry key="CHINESE" value="1157" />
+        <entry key="ENGLISH" value="1147" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="LITHUANIAN" value="2" />
