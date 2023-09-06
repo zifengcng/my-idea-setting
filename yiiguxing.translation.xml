@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1035" />
     <option name="newTranslationDialogY" value="353" />
     <histories>
+      <item value="TP" />
       <item value="变量" />
       <item value="参数" />
       <item value="get Rule Param List" />
@@ -54,7 +55,6 @@
       <item value="green" />
       <item value="失败类型" />
       <item value="失败" />
-      <item value="s" />
     </histories>
     <option name="languageScores">
       <map>
@@ -67,6 +67,7 @@
         <entry key="PORTUGUESE" value="1" />
         <entry key="GREEK" value="1" />
         <entry key="ITALIAN" value="1" />
+        <entry key="VIETNAMESE" value="1" />
       </map>
     </option>
   </component>
