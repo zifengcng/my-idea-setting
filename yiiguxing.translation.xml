@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1035" />
     <option name="newTranslationDialogY" value="353" />
     <histories>
+      <item value="ceiling" />
       <item value="invoke" />
       <item value="函数" />
       <item value="TP" />
@@ -54,12 +55,11 @@
       <item value="g" />
       <item value="vague" />
       <item value="vagu" />
-      <item value="green" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1165" />
-        <entry key="ENGLISH" value="1154" />
+        <entry key="ENGLISH" value="1155" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="LITHUANIAN" value="2" />
