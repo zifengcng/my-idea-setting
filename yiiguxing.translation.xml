@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="1035" />
     <option name="newTranslationDialogY" value="353" />
     <histories>
+      <item value="invoke" />
+      <item value="函数" />
       <item value="TP" />
       <item value="变量" />
       <item value="参数" />
@@ -53,13 +55,11 @@
       <item value="vague" />
       <item value="vagu" />
       <item value="green" />
-      <item value="失败类型" />
-      <item value="失败" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1157" />
-        <entry key="ENGLISH" value="1147" />
+        <entry key="CHINESE" value="1165" />
+        <entry key="ENGLISH" value="1154" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="LITHUANIAN" value="2" />
