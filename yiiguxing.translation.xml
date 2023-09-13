@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1035" />
     <option name="newTranslationDialogY" value="353" />
     <histories>
+      <item value="连续" />
       <item value="优先级" />
       <item value="Descriptor" />
       <item value="ceiling" />
@@ -25,7 +26,6 @@
       <item value="redundant" />
       <item value="redundat" />
       <item value="red" />
-      <item value="连续" />
       <item value="single" />
       <item value="singleton" />
       <item value="单个的" />
