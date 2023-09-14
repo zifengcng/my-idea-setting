@@ -5,6 +5,12 @@
     <option name="newTranslationDialogX" value="1035" />
     <option name="newTranslationDialogY" value="353" />
     <histories>
+      <item value="time" />
+      <item value="倍" />
+      <item value="几倍" />
+      <item value="倍数" />
+      <item value="be" />
+      <item value="b" />
       <item value="异常" />
       <item value="Outlier" />
       <item value="异常点" />
@@ -49,17 +55,11 @@
       <item value="算术" />
       <item value="算shu" />
       <item value="算数" />
-      <item value="Arith" />
-      <item value="Field" />
-      <item value="Field Map" />
-      <item value="Deprecated" />
-      <item value="De" />
-      <item value="过" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1191" />
-        <entry key="ENGLISH" value="1182" />
+        <entry key="CHINESE" value="1206" />
+        <entry key="ENGLISH" value="1197" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="LITHUANIAN" value="2" />
