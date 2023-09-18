@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="1035" />
     <option name="newTranslationDialogY" value="353" />
     <histories>
+      <item value="tree" />
+      <item value="234" />
+      <item value="11" />
       <item value="Vague" />
       <item value="get Dimension Vague" />
       <item value="不满足公式" />
@@ -52,14 +55,11 @@
       <item value="算术表达式" />
       <item value="OPERATION" />
       <item value="OPERATEION" />
-      <item value="calculate" />
-      <item value="计算" />
-      <item value="calculation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1218" />
-        <entry key="ENGLISH" value="1209" />
+        <entry key="CHINESE" value="1221" />
+        <entry key="ENGLISH" value="1211" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="LITHUANIAN" value="2" />
@@ -73,5 +73,25 @@
   </component>
   <component name="Cache">
     <option name="lastTrimTime" value="1694509533163" />
+  </component>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1695007456924" />
+  </component>
+  <component name="Translation.States">
+    <option name="newTranslationDialogHeight" value="260" />
+    <option name="newTranslationDialogX" value="664" />
+    <option name="newTranslationDialogY" value="469" />
+    <histories>
+      <item value="一边" />
+      <item value="一遍" />
+      <item value="onl" />
+      <item value="multiple" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="14" />
+        <entry key="ENGLISH" value="14" />
+      </map>
+    </option>
   </component>
 </application>
