@@ -82,6 +82,7 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="469" />
     <histories>
+      <item value="lenient Fallback" />
       <item value="预备备库" />
       <item value="yu备库" />
       <item value="切换备库" />
@@ -110,7 +111,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="75" />
-        <entry key="ENGLISH" value="75" />
+        <entry key="ENGLISH" value="76" />
       </map>
     </option>
   </component>
