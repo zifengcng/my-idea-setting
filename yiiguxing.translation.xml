@@ -75,13 +75,20 @@
     <option name="lastTrimTime" value="1694509533163" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1696837116595" />
+    <option name="lastTrimTime" value="1697619185140" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="260" />
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="469" />
     <histories>
+      <item value="预备备库" />
+      <item value="yu备库" />
+      <item value="切换备库" />
+      <item value="切换备" />
+      <item value="切换bei" />
+      <item value="切换bei'ku" />
+      <item value="切换" />
       <item value="choosable" />
       <item value="来源" />
       <item value="perm_type" />
@@ -102,8 +109,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="61" />
-        <entry key="ENGLISH" value="61" />
+        <entry key="CHINESE" value="75" />
+        <entry key="ENGLISH" value="75" />
       </map>
     </option>
   </component>
