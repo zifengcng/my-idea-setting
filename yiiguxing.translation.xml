@@ -82,6 +82,7 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="469" />
     <histories>
+      <item value="Consider revisiting the entries above or defining a bean of type" />
       <item value="expected at least 1 bean which qualifies as autowire candidate" />
       <item value="开关" />
       <item value="切换" />
@@ -121,7 +122,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="107" />
-        <entry key="ENGLISH" value="107" />
+        <entry key="ENGLISH" value="108" />
       </map>
     </option>
   </component>
