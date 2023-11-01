@@ -83,6 +83,9 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="469" />
     <histories>
+      <item value="period" />
+      <item value="initial Delay" />
+      <item value="Gracefully" />
       <item value="Rejected Execution Exception" />
       <item value="delayed Execute" />
       <item value="Specialized delay queue. To mesh with TPE declarations, this class must be declared as a BlockingQueue&lt;Runnable&gt; even though it can only hold RunnableScheduledFutures." />
@@ -130,14 +133,11 @@
       <item value="过滤器" />
       <item value="WEEK OF MONTH" />
       <item value="prototype" />
-      <item value="整月" />
-      <item value="整yue" />
-      <item value="整" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="142" />
-        <entry key="ENGLISH" value="143" />
+        <entry key="CHINESE" value="145" />
+        <entry key="ENGLISH" value="146" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="PORTUGUESE" value="1" />
       </map>
