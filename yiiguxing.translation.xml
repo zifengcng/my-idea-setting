@@ -83,6 +83,8 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="465" />
     <histories>
+      <item value="Async" />
+      <item value="Multi Keys Exception" />
       <item value="Indicates that an annotation type is automatically inherited" />
       <item value="Inherited" />
       <item value="arithmetic" />
@@ -131,13 +133,11 @@
       <item value="s" />
       <item value="w" />
       <item value="lenient Fallback" />
-      <item value="预备备库" />
-      <item value="yu备库" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="174" />
-        <entry key="ENGLISH" value="175" />
+        <entry key="CHINESE" value="176" />
+        <entry key="ENGLISH" value="177" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="PORTUGUESE" value="1" />
       </map>
