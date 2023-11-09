@@ -81,9 +81,17 @@
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="260" />
     <option name="newTranslationDialogX" value="664" />
-    <option name="newTranslationDialogY" value="465" />
+    <option name="newTranslationDialogY" value="455" />
     <histories>
+      <item value="装饰" />
+      <item value="Service Decorator" />
       <item value="装饰器" />
+      <item value="z" />
+      <item value="z\" />
+      <item value="Decorate" />
+      <item value="Service Decorate" />
+      <item value="mapstruct" />
+      <item value="Decorated With" />
       <item value="OPERATEION" />
       <item value="Reloadable" />
       <item value="Matrix" />
@@ -125,19 +133,11 @@
       <item value="evict" />
       <item value="Mutable" />
       <item value="is not eligible for getting processed by all BeanPostProcessors" />
-      <item value="Consider revisiting the entries above or defining a bean of type" />
-      <item value="expected at least 1 bean which qualifies as autowire candidate" />
-      <item value="开关" />
-      <item value="切换" />
-      <item value="switch Schedule" />
-      <item value="临时" />
-      <item value="temp" />
-      <item value="tmp" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="192" />
-        <entry key="ENGLISH" value="193" />
+        <entry key="CHINESE" value="218" />
+        <entry key="ENGLISH" value="219" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="PORTUGUESE" value="1" />
       </map>
