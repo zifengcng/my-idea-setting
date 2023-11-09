@@ -83,6 +83,7 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="465" />
     <histories>
+      <item value="Reloadable" />
       <item value="Matrix" />
       <item value="no Null Elements Use Jdk Exception" />
       <item value="Async" />
@@ -132,12 +133,11 @@
       <item value="tmp" />
       <item value="t" />
       <item value="switch" />
-      <item value="s" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="178" />
-        <entry key="ENGLISH" value="179" />
+        <entry key="CHINESE" value="179" />
+        <entry key="ENGLISH" value="180" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="PORTUGUESE" value="1" />
       </map>
