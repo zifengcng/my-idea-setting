@@ -83,6 +83,7 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="455" />
     <histories>
+      <item value="attributes" />
       <item value="Context" />
       <item value="decorate" />
       <item value="Invalid type 'Decorator' for annotation member" />
@@ -132,12 +133,11 @@
       <item value="Nullable" />
       <item value="categorized" />
       <item value="ensure priority is higher than transaction AOP" />
-      <item value="停止" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="228" />
-        <entry key="ENGLISH" value="229" />
+        <entry key="CHINESE" value="229" />
+        <entry key="ENGLISH" value="230" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="VIETNAMESE" value="1" />
