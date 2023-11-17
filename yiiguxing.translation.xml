@@ -83,6 +83,7 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="455" />
     <histories>
+      <item value="legend" />
       <item value="explanation" />
       <item value="XX" />
       <item value="If {@code exist} == true, set {@code value} and specified expire {@code timeout} for {@code key} only if the key already exist. If {@code exist} == false, set {@code value} and specified expire {@code timeout} for {@code key} only if the key does not already exist." />
@@ -132,11 +133,10 @@
       <item value="Gracefully" />
       <item value="Rejected Execution Exception" />
       <item value="delayed Execute" />
-      <item value="Specialized delay queue. To mesh with TPE declarations, this class must be declared as a BlockingQueue&lt;Runnable&gt; even though it can only hold RunnableScheduledFutures." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="237" />
+        <entry key="CHINESE" value="238" />
         <entry key="ENGLISH" value="238" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="PORTUGUESE" value="1" />
