@@ -79,10 +79,13 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="260" />
+    <option name="newTranslationDialogHeight" value="277" />
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="455" />
     <histories>
+      <item value="ratio" />
+      <item value="Rate" />
+      <item value="rate" />
       <item value="Subdivision" />
       <item value="legend" />
       <item value="explanation" />
@@ -130,14 +133,11 @@
       <item value="sheng'heng" />
       <item value="gerner" />
       <item value="period" />
-      <item value="initial Delay" />
-      <item value="Gracefully" />
-      <item value="Rejected Execution Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="238" />
-        <entry key="ENGLISH" value="239" />
+        <entry key="CHINESE" value="241" />
+        <entry key="ENGLISH" value="242" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="UZBEK" value="1" />
