@@ -83,6 +83,8 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="455" />
     <histories>
+      <item value="移除" />
+      <item value="c" />
       <item value="升级" />
       <item value="s" />
       <item value="优化" />
@@ -131,13 +133,11 @@
       <item value="Matrix" />
       <item value="no Null Elements Use Jdk Exception" />
       <item value="Async" />
-      <item value="Multi Keys Exception" />
-      <item value="Indicates that an annotation type is automatically inherited" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="267" />
-        <entry key="ENGLISH" value="268" />
+        <entry key="CHINESE" value="273" />
+        <entry key="ENGLISH" value="274" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="UZBEK" value="1" />
