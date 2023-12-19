@@ -83,6 +83,7 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="455" />
     <histories>
+      <item value="personal" />
       <item value="legal" />
       <item value="BucketOrder key" />
       <item value="移除" />
@@ -132,12 +133,11 @@
       <item value="Decorated With" />
       <item value="OPERATEION" />
       <item value="Reloadable" />
-      <item value="Matrix" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="275" />
-        <entry key="ENGLISH" value="276" />
+        <entry key="CHINESE" value="276" />
+        <entry key="ENGLISH" value="277" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="UZBEK" value="1" />
