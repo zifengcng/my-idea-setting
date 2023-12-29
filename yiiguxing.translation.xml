@@ -83,6 +83,12 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="455" />
     <histories>
+      <item value="审计人" />
+      <item value="审批人" />
+      <item value="auditer" />
+      <item value="audit" />
+      <item value="auditr" />
+      <item value="audite" />
       <item value="Control" />
       <item value="损益" />
       <item value="sun" />
@@ -127,17 +133,11 @@
       <item value="后台配置" />
       <item value="h" />
       <item value="装饰" />
-      <item value="Service Decorator" />
-      <item value="装饰器" />
-      <item value="z" />
-      <item value="z\" />
-      <item value="Decorate" />
-      <item value="Service Decorate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="290" />
-        <entry key="ENGLISH" value="290" />
+        <entry key="CHINESE" value="306" />
+        <entry key="ENGLISH" value="306" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="UZBEK" value="1" />
