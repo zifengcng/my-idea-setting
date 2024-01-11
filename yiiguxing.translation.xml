@@ -83,6 +83,9 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="455" />
     <histories>
+      <item value="Unfold" />
+      <item value="上下级" />
+      <item value="s" />
       <item value="bpp" />
       <item value="审计人" />
       <item value="审批人" />
@@ -100,7 +103,6 @@
       <item value="移除" />
       <item value="c" />
       <item value="升级" />
-      <item value="s" />
       <item value="优化" />
       <item value="请求来源" />
       <item value="来源" />
@@ -131,13 +133,11 @@
       <item value="Invalid type 'Decorator' for annotation member" />
       <item value="TP" />
       <item value="Heartbeat" />
-      <item value="后台配置" />
-      <item value="h" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="306" />
-        <entry key="ENGLISH" value="307" />
+        <entry key="CHINESE" value="317" />
+        <entry key="ENGLISH" value="318" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="UZBEK" value="1" />
