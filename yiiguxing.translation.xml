@@ -75,7 +75,7 @@
     <option name="lastTrimTime" value="1694509533163" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1704703742329" />
+    <option name="lastTrimTime" value="1705300067665" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
@@ -83,6 +83,9 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="455" />
     <histories>
+      <item value="intersection" />
+      <item value="intersection(" />
+      <item value="the intersection of the two collections" />
       <item value="Unfold" />
       <item value="上下级" />
       <item value="s" />
@@ -130,14 +133,11 @@
       <item value="attributes" />
       <item value="Context" />
       <item value="decorate" />
-      <item value="Invalid type 'Decorator' for annotation member" />
-      <item value="TP" />
-      <item value="Heartbeat" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="317" />
-        <entry key="ENGLISH" value="318" />
+        <entry key="CHINESE" value="321" />
+        <entry key="ENGLISH" value="322" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="UZBEK" value="1" />
