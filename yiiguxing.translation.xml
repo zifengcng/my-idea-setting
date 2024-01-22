@@ -75,15 +75,16 @@
     <option name="lastTrimTime" value="1694509533163" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1705300067665" />
+    <option name="lastTrimTime" value="1705921591675" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="277" />
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="444" />
-    <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="有权限" />
+      <item value="y" />
       <item value="particular" />
       <item value="特殊" />
       <item value="legal" />
@@ -132,13 +133,11 @@
       <item value="et the {@code value} and expiration in {@code milliseconds} for {@code key}." />
       <item value="delimiter" />
       <item value="Cache Const" />
-      <item value="Bo" />
-      <item value="attributes" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="324" />
-        <entry key="ENGLISH" value="324" />
+        <entry key="CHINESE" value="336" />
+        <entry key="ENGLISH" value="336" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="UZBEK" value="1" />
