@@ -83,6 +83,15 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="444" />
     <histories>
+      <item value="Reject" />
+      <item value="最近的" />
+      <item value="最近" />
+      <item value="latest" />
+      <item value="最新" />
+      <item value="最新的" />
+      <item value="最新d" />
+      <item value="zui" />
+      <item value="z" />
       <item value="有权限" />
       <item value="y" />
       <item value="particular" />
@@ -124,20 +133,11 @@
       <item value="Rate" />
       <item value="rate" />
       <item value="Subdivision" />
-      <item value="legend" />
-      <item value="explanation" />
-      <item value="XX" />
-      <item value="If {@code exist} == true, set {@code value} and specified expire {@code timeout} for {@code key} only if the key already exist. If {@code exist} == false, set {@code value} and specified expire {@code timeout} for {@code key} only if the key does not already exist." />
-      <item value="only if the key already exist" />
-      <item value="The key exist or not" />
-      <item value="et the {@code value} and expiration in {@code milliseconds} for {@code key}." />
-      <item value="delimiter" />
-      <item value="Cache Const" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="336" />
-        <entry key="ENGLISH" value="336" />
+        <entry key="CHINESE" value="346" />
+        <entry key="ENGLISH" value="345" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="UZBEK" value="1" />
