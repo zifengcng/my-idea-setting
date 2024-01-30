@@ -83,6 +83,10 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="444" />
     <histories>
+      <item value="重复" />
+      <item value="c" />
+      <item value="valid" />
+      <item value="va" />
       <item value="最早" />
       <item value="早" />
       <item value="z" />
@@ -123,21 +127,17 @@
       <item value="personal" />
       <item value="BucketOrder key" />
       <item value="移除" />
-      <item value="c" />
       <item value="升级" />
       <item value="优化" />
       <item value="请求来源" />
       <item value="来源" />
       <item value="colleague" />
       <item value="colleague Erp" />
-      <item value="Decryption error with last key" />
-      <item value="Vender" />
-      <item value="decapitalize" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="357" />
-        <entry key="ENGLISH" value="358" />
+        <entry key="CHINESE" value="365" />
+        <entry key="ENGLISH" value="365" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="UZBEK" value="1" />
