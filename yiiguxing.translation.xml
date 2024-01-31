@@ -83,6 +83,9 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="444" />
     <histories>
+      <item value="毫秒" />
+      <item value="Returns the largest (closest to positi" />
+      <item value="milliseconds" />
       <item value="重复" />
       <item value="c" />
       <item value="valid" />
@@ -130,14 +133,11 @@
       <item value="升级" />
       <item value="优化" />
       <item value="请求来源" />
-      <item value="来源" />
-      <item value="colleague" />
-      <item value="colleague Erp" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="365" />
-        <entry key="ENGLISH" value="365" />
+        <entry key="CHINESE" value="373" />
+        <entry key="ENGLISH" value="374" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="UZBEK" value="1" />
