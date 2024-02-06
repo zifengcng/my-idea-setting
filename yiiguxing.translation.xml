@@ -83,6 +83,7 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="444" />
     <histories>
+      <item value="Showreel" />
       <item value="OverRetainAll" />
       <item value="大盘" />
       <item value="d" />
@@ -132,11 +133,10 @@
       <item value="auditer" />
       <item value="audit" />
       <item value="auditr" />
-      <item value="audite" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="390" />
+        <entry key="CHINESE" value="391" />
         <entry key="ENGLISH" value="388" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="PORTUGUESE" value="2" />
