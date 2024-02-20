@@ -81,8 +81,39 @@
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="277" />
     <option name="newTranslationDialogX" value="664" />
-    <option name="newTranslationDialogY" value="444" />
+    <option name="newTranslationDialogY" value="438" />
     <histories>
+      <item value="说明书" />
+      <item value="手册" />
+      <item value="summary" />
+      <item value="synopsis" />
+      <item value="manual" />
+      <item value="使用手册" />
+      <item value="使用shi" />
+      <item value="s" />
+      <item value="说明" />
+      <item value="shuo'ming" />
+      <item value="sh" />
+      <item value="预测" />
+      <item value="预估" />
+      <item value="offline" />
+      <item value="offine&#10;" />
+      <item value="offne&#10;" />
+      <item value="offlne&#10;" />
+      <item value="offli&#10;" />
+      <item value="下线&#10;" />
+      <item value="离线&#10;" />
+      <item value="offline&#10;" />
+      <item value="offine" />
+      <item value="off" />
+      <item value="off;" />
+      <item value="最后" />
+      <item value="最" />
+      <item value="最新" />
+      <item value="最xo'm" />
+      <item value="z" />
+      <item value="开放" />
+      <item value="计划" />
       <item value="Redundant" />
       <item value="Redundant character escape '\\}' in RegExp " />
       <item value="regex" />
@@ -102,42 +133,11 @@
       <item value="none" />
       <item value="非" />
       <item value="amend" />
-      <item value="ane" />
-      <item value="毫秒" />
-      <item value="Returns the largest (closest to positi" />
-      <item value="milliseconds" />
-      <item value="重复" />
-      <item value="c" />
-      <item value="valid" />
-      <item value="va" />
-      <item value="最早" />
-      <item value="早" />
-      <item value="z" />
-      <item value="特殊" />
-      <item value="units" />
-      <item value="corresponding" />
-      <item value="iterates" />
-      <item value="obtains" />
-      <item value="Reject" />
-      <item value="最近的" />
-      <item value="最近" />
-      <item value="latest" />
-      <item value="最新" />
-      <item value="最新的" />
-      <item value="最新d" />
-      <item value="zui" />
-      <item value="有权限" />
-      <item value="y" />
-      <item value="particular" />
-      <item value="legal" />
-      <item value="intersection" />
-      <item value="intersection(" />
-      <item value="the intersection of the two collections" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="394" />
-        <entry key="ENGLISH" value="393" />
+        <entry key="CHINESE" value="458" />
+        <entry key="ENGLISH" value="455" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="UZBEK" value="1" />
