@@ -83,6 +83,7 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="438" />
     <histories>
+      <item value="级别" />
       <item value="说明书" />
       <item value="手册" />
       <item value="summary" />
@@ -132,12 +133,11 @@
       <item value="non" />
       <item value="none" />
       <item value="非" />
-      <item value="amend" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="458" />
-        <entry key="ENGLISH" value="455" />
+        <entry key="CHINESE" value="464" />
+        <entry key="ENGLISH" value="461" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="UZBEK" value="1" />
