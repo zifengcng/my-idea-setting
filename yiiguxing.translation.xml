@@ -83,6 +83,10 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="438" />
     <histories>
+      <item value="purpose" />
+      <item value="菜单用途" />
+      <item value="用途" />
+      <item value="t" />
       <item value="上下线" />
       <item value="级别" />
       <item value="说明书" />
@@ -129,15 +133,11 @@
       <item value="OverRetainAll" />
       <item value="大盘" />
       <item value="d" />
-      <item value="OverRetailAll" />
-      <item value="no" />
-      <item value="non" />
-      <item value="none" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="464" />
-        <entry key="ENGLISH" value="461" />
+        <entry key="CHINESE" value="472" />
+        <entry key="ENGLISH" value="468" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="UZBEK" value="1" />
