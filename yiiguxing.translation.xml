@@ -75,7 +75,7 @@
     <option name="lastTrimTime" value="1694509533163" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1708310220690" />
+    <option name="lastTrimTime" value="1708916791486" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
@@ -83,6 +83,7 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="438" />
     <histories>
+      <item value="A collection that maps keys to values, similar to {@link Map}, but in which each key may be associated with &lt;i&gt;multiple&lt;i&gt; values. You can visualize the contents of a multimap either as a map from keys to &lt;i&gt;nonempty&lt;i&gt; collections of values:" />
       <item value="purpose" />
       <item value="菜单用途" />
       <item value="用途" />
@@ -132,12 +133,11 @@
       <item value="Showreel" />
       <item value="OverRetainAll" />
       <item value="大盘" />
-      <item value="d" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="472" />
-        <entry key="ENGLISH" value="468" />
+        <entry key="ENGLISH" value="469" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="UZBEK" value="1" />
