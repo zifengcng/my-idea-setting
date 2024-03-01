@@ -83,6 +83,12 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="438" />
     <histories>
+      <item value="无效" />
+      <item value="w" />
+      <item value="enable" />
+      <item value="e" />
+      <item value="不可用" />
+      <item value="b" />
       <item value="Checks if a new worker can be added with respect to current pool state and the given bound (either core or maximum). If so, the worker count is adjusted accordingly, and, if possible, a new worker is created and started, running firstTask as its first task. This method returns false if the pool is stopped or eligible to shut down. It also returns false if the thread factory fails to create a thread when asked. If the thread creation fails, either due to the thread factory returning null, or due to an exception (typically OutOfMemoryError in Thread.start()), we roll back cleanly. @param firstTask the task the new thread should run first (or null if none). Workers are created with an initial first task (in method execute()) to bypass queuing when there are fewer than corePoolSize threads (in which case we always start one), or when the queue is full (in which case we must bypass queue). Initially idle threads are usually created via prestartCoreThread or to replace other dying workers. @param core if true use corePoolSize as bound, else maximumPoolSize. (A boolean indicator is used here rather than a value to ensure reads of fresh values after checking other pool state). @return true if successful" />
       <item value="Executes the given task sometime in the future. The task may execute in a new thread or in an existing pooled thread. If the task cannot be submitted for execution, either because this executor has been shutdown or because its capacity has been reached, the task is handled by the current {@code RejectedExecutionHandler}. @param command the task to execute @throws RejectedExecutionException at discretion of {@code RejectedExecutionHandler}, if the task cannot be accepted for execution @throws NullPointerException if {@code command} is null" />
       <item value="Always throws RejectedExecutionException. Params: r – the runnable task requested to be executed e – the executor attempting to execute this task" />
@@ -127,17 +133,11 @@
       <item value="最后" />
       <item value="最" />
       <item value="最新" />
-      <item value="最xo'm" />
-      <item value="z" />
-      <item value="开放" />
-      <item value="计划" />
-      <item value="Redundant" />
-      <item value="Redundant character escape '\\}' in RegExp " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="479" />
-        <entry key="ENGLISH" value="479" />
+        <entry key="CHINESE" value="501" />
+        <entry key="ENGLISH" value="500" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="UZBEK" value="1" />
