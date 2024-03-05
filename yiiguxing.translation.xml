@@ -83,6 +83,7 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="438" />
     <histories>
+      <item value="pilot" />
       <item value="策略" />
       <item value="Reverses the order of the elements in the specified list" />
       <item value="无效" />
@@ -132,12 +133,11 @@
       <item value="offine" />
       <item value="off" />
       <item value="off;" />
-      <item value="最后" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="506" />
-        <entry key="ENGLISH" value="506" />
+        <entry key="CHINESE" value="512" />
+        <entry key="ENGLISH" value="511" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="UZBEK" value="1" />
