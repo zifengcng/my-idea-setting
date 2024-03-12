@@ -75,14 +75,17 @@
     <option name="lastTrimTime" value="1694509533163" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1709540234582" />
+    <option name="lastTrimTime" value="1710228507352" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="277" />
+    <option name="newTranslationDialogHeight" value="294" />
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="438" />
     <histories>
+      <item value="pruning" />
+      <item value="剪枝" />
+      <item value="backtrack" />
       <item value="pilot" />
       <item value="策略" />
       <item value="Reverses the order of the elements in the specified list" />
@@ -130,14 +133,11 @@
       <item value="下线&#10;" />
       <item value="离线&#10;" />
       <item value="offline&#10;" />
-      <item value="offine" />
-      <item value="off" />
-      <item value="off;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="512" />
-        <entry key="ENGLISH" value="511" />
+        <entry key="CHINESE" value="518" />
+        <entry key="ENGLISH" value="515" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="UZBEK" value="1" />
