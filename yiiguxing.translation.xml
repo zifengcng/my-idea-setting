@@ -83,6 +83,11 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="438" />
     <histories>
+      <item value="Evaluation Context" />
+      <item value="Evaluation" />
+      <item value="evaluation" />
+      <item value="Evaluate" />
+      <item value="datum" />
       <item value="the length of time to sleep in milliseconds" />
       <item value="millis" />
       <item value="Index column size too large" />
@@ -128,16 +133,11 @@
       <item value="s" />
       <item value="说明" />
       <item value="shuo'ming" />
-      <item value="sh" />
-      <item value="预测" />
-      <item value="预估" />
-      <item value="offline" />
-      <item value="offine&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="519" />
-        <entry key="ENGLISH" value="520" />
+        <entry key="CHINESE" value="524" />
+        <entry key="ENGLISH" value="525" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="UZBEK" value="1" />
