@@ -75,7 +75,7 @@
     <option name="lastTrimTime" value="1694509533163" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1711433644555" />
+    <option name="lastTrimTime" value="1711952852146" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
@@ -83,6 +83,8 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="438" />
     <histories>
+      <item value="Control" />
+      <item value="ControlInt" />
       <item value="Evaluation Context" />
       <item value="Evaluation" />
       <item value="evaluation" />
@@ -131,12 +133,10 @@
       <item value="使用手册" />
       <item value="使用shi" />
       <item value="s" />
-      <item value="说明" />
-      <item value="shuo'ming" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="524" />
+        <entry key="CHINESE" value="525" />
         <entry key="ENGLISH" value="525" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="PORTUGUESE" value="2" />
