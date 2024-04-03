@@ -83,6 +83,7 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="438" />
     <histories>
+      <item value="解析" />
       <item value="运算符" />
       <item value="ji" />
       <item value="Instantiation Exception" />
@@ -132,12 +133,11 @@
       <item value="用户配置" />
       <item value="帮助体系" />
       <item value="数据看板" />
-      <item value="看板" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="564" />
-        <entry key="ENGLISH" value="563" />
+        <entry key="CHINESE" value="569" />
+        <entry key="ENGLISH" value="568" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="PORTUGUESE" value="2" />
