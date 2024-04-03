@@ -83,6 +83,8 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="438" />
     <histories>
+      <item value="后缀" />
+      <item value="aggre" />
       <item value="cooper" />
       <item value="cookper" />
       <item value="cook" />
@@ -131,14 +133,13 @@
       <item value="用途" />
       <item value="t" />
       <item value="上下线" />
-      <item value="级别" />
-      <item value="说明书" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="544" />
-        <entry key="ENGLISH" value="543" />
+        <entry key="CHINESE" value="545" />
+        <entry key="ENGLISH" value="544" />
         <entry key="HAITIAN_CREOLE" value="1" />
+        <entry key="LATIN" value="1" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="UZBEK" value="1" />
         <entry key="VIETNAMESE" value="1" />
