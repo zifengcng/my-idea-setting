@@ -83,6 +83,7 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="438" />
     <histories>
+      <item value="遍历" />
       <item value="后缀" />
       <item value="aggre" />
       <item value="cooper" />
@@ -132,7 +133,6 @@
       <item value="菜单用途" />
       <item value="用途" />
       <item value="t" />
-      <item value="上下线" />
     </histories>
     <option name="languageScores">
       <map>
