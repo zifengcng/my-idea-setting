@@ -83,6 +83,7 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="438" />
     <histories>
+      <item value="Instantiation Exception" />
       <item value="Track" />
       <item value="追踪维度" />
       <item value="追踪" />
@@ -132,12 +133,11 @@
       <item value="看板" />
       <item value="development" />
       <item value="开发中" />
-      <item value="A collection that maps keys to values, similar to {@link Map}, but in which each key may be associated with &lt;i&gt;multiple&lt;i&gt; values. You can visualize the contents of a multimap either as a map from keys to &lt;i&gt;nonempty&lt;i&gt; collections of values:" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="554" />
-        <entry key="ENGLISH" value="552" />
+        <entry key="ENGLISH" value="553" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="PORTUGUESE" value="2" />
