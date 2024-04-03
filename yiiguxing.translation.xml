@@ -83,8 +83,9 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="438" />
     <histories>
-      <item value="解析" />
       <item value="运算符" />
+      <item value="操作符" />
+      <item value="解析" />
       <item value="ji" />
       <item value="Instantiation Exception" />
       <item value="Track" />
@@ -132,7 +133,6 @@
       <item value="运营管理" />
       <item value="用户配置" />
       <item value="帮助体系" />
-      <item value="数据看板" />
     </histories>
     <option name="languageScores">
       <map>
