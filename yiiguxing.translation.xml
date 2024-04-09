@@ -83,6 +83,7 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="421" />
     <histories>
+      <item value="DO" />
       <item value="squash commit" />
       <item value="squash" />
       <item value="s'qu" />
@@ -132,12 +133,11 @@
       <item value="策略" />
       <item value="Reverses the order of the elements in the specified list" />
       <item value="无效" />
-      <item value="w" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="591" />
-        <entry key="ENGLISH" value="591" />
+        <entry key="ENGLISH" value="592" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="PORTUGUESE" value="2" />
