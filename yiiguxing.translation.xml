@@ -75,7 +75,7 @@
     <option name="lastTrimTime" value="1694509533163" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1712458770205" />
+    <option name="lastTrimTime" value="1712904090301" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
@@ -83,6 +83,7 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="421" />
     <histories>
+      <item value="failover" />
       <item value="AtomicStampedReference" />
       <item value="synchronized" />
       <item value="epoll" />
@@ -132,12 +133,11 @@
       <item value="delimiter" />
       <item value="pruning" />
       <item value="剪枝" />
-      <item value="backtrack" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="594" />
-        <entry key="ENGLISH" value="594" />
+        <entry key="ENGLISH" value="595" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="PORTUGUESE" value="2" />
