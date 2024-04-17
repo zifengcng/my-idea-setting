@@ -83,6 +83,7 @@
     <option name="newTranslationDialogX" value="664" />
     <option name="newTranslationDialogY" value="421" />
     <histories>
+      <item value="meet" />
       <item value="Radio" />
       <item value="metrics Cal Radio" />
       <item value="Dom" />
@@ -132,12 +133,11 @@
       <item value="millis" />
       <item value="Index column size too large" />
       <item value="Prevents calls to {@link finish} from freeing the cache" />
-      <item value="DB CLOSE DELAY" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="598" />
-        <entry key="ENGLISH" value="599" />
+        <entry key="CHINESE" value="599" />
+        <entry key="ENGLISH" value="600" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="PORTUGUESE" value="2" />
