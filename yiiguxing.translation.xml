@@ -75,14 +75,20 @@
     <option name="lastTrimTime" value="1694509533163" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1712904090301" />
+    <option name="lastTrimTime" value="1713336476057" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="294" />
-    <option name="newTranslationDialogX" value="664" />
-    <option name="newTranslationDialogY" value="421" />
+    <option name="newTranslationDialogX" value="651" />
+    <option name="newTranslationDialogY" value="452" />
     <histories>
+      <item value="触发规则" />
+      <item value="对" />
+      <item value="成功" />
+      <item value="c" />
+      <item value="分类" />
+      <item value="异常分类" />
       <item value="meet" />
       <item value="Radio" />
       <item value="metrics Cal Radio" />
@@ -120,7 +126,6 @@
       <item value="cook" />
       <item value="coo" />
       <item value="cooke" />
-      <item value="c" />
       <item value="分析" />
       <item value="Control" />
       <item value="ControlInt" />
@@ -128,16 +133,11 @@
       <item value="Evaluation" />
       <item value="evaluation" />
       <item value="Evaluate" />
-      <item value="datum" />
-      <item value="the length of time to sleep in milliseconds" />
-      <item value="millis" />
-      <item value="Index column size too large" />
-      <item value="Prevents calls to {@link finish} from freeing the cache" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="599" />
-        <entry key="ENGLISH" value="600" />
+        <entry key="CHINESE" value="620" />
+        <entry key="ENGLISH" value="620" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="PORTUGUESE" value="2" />
