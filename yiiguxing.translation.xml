@@ -83,6 +83,8 @@
     <option name="newTranslationDialogX" value="651" />
     <option name="newTranslationDialogY" value="452" />
     <histories>
+      <item value="you have a reputation" />
+      <item value="reputation" />
       <item value="Set a named variable within this evaluation context to a specified value. @param name the name of the variable to set @param value the value to be placed in the variable" />
       <item value="触发规则" />
       <item value="对" />
@@ -131,12 +133,10 @@
       <item value="Control" />
       <item value="ControlInt" />
       <item value="Evaluation Context" />
-      <item value="Evaluation" />
-      <item value="evaluation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="620" />
+        <entry key="CHINESE" value="622" />
         <entry key="ENGLISH" value="621" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="LATIN" value="1" />
