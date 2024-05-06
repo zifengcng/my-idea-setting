@@ -75,7 +75,7 @@
     <option name="lastTrimTime" value="1694509533163" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1713336476057" />
+    <option name="lastTrimTime" value="1714982050960" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
@@ -83,6 +83,7 @@
     <option name="newTranslationDialogX" value="651" />
     <option name="newTranslationDialogY" value="452" />
     <histories>
+      <item value="ceiling and visibility unlimited&#10;" />
       <item value="the number of elements the stream should be limited to" />
       <item value="subtract" />
       <item value="you have a reputation" />
@@ -132,11 +133,10 @@
       <item value="coo" />
       <item value="cooke" />
       <item value="分析" />
-      <item value="Control" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="622" />
+        <entry key="CHINESE" value="623" />
         <entry key="ENGLISH" value="623" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="LATIN" value="1" />
