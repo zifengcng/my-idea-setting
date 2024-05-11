@@ -75,7 +75,7 @@
     <option name="lastTrimTime" value="1694509533163" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1714982050960" />
+    <option name="lastTrimTime" value="1715416647489" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
@@ -83,6 +83,8 @@
     <option name="newTranslationDialogX" value="651" />
     <option name="newTranslationDialogY" value="452" />
     <histories>
+      <item value="To change the default size limit for MyISAM tables, set the myisam_data_pointer_size, which sets the number of bytes&#10;&#10;used for internal row pointers. The value is used to set the pointer size for new tables if you do not specify the MAX_ROWS op-&#10;&#10;tion. The value of myisam_data_pointer_size can be from 2 to 7. A value of 4 permits tables up to 4GB; a value of 6&#10;&#10;permits tables up to 256TB&#10;" />
+      <item value="To change the default size limit for MyISAM tables, set the myisam_data_pointer_size, which sets the number of bytes&#10;&#10;used for internal row pointers. The value is used to set the pointer size for new tables if you do not specify the MAX_ROWS op-&#10;&#10;tion. The value of myisam_data_pointer_size can be from 2 to 7. A value of 4 permits tables up to 4GB; a value of 6&#10;&#10;permits tables up to 256TB&#10;————————————————&#10;&#10;                            版权声明：本文为博主原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接和本声明。&#10;                        &#10;原文链接：https://blog.csdn.net/weixin_35098081/article/details/113166550" />
       <item value="fluent" />
       <item value="ceiling and visibility unlimited&#10;" />
       <item value="the number of elements the stream should be limited to" />
@@ -131,12 +133,10 @@
       <item value="cooper" />
       <item value="cookper" />
       <item value="cook" />
-      <item value="coo" />
-      <item value="cooke" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="623" />
+        <entry key="CHINESE" value="624" />
         <entry key="ENGLISH" value="624" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="LATIN" value="1" />
