@@ -83,6 +83,8 @@
     <option name="newTranslationDialogX" value="651" />
     <option name="newTranslationDialogY" value="452" />
     <histories>
+      <item value="true if the run() method should be invoked. false will not invoke the run() method" />
+      <item value="a &quot;true&quot; return from this method means that the run() method should be invoked" />
       <item value="formula Data" />
       <item value="a string representation of the URL argument." />
       <item value="Presign" />
@@ -131,14 +133,12 @@
       <item value="操作符" />
       <item value="解析" />
       <item value="ji" />
-      <item value="Instantiation Exception" />
-      <item value="Track" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="1" />
-        <entry key="CHINESE" value="644" />
-        <entry key="ENGLISH" value="644" />
+        <entry key="CHINESE" value="645" />
+        <entry key="ENGLISH" value="646" />
         <entry key="ESPERANTO" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="LATIN" value="1" />
