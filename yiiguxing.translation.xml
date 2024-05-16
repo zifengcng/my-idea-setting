@@ -83,6 +83,7 @@
     <option name="newTranslationDialogX" value="651" />
     <option name="newTranslationDialogY" value="452" />
     <histories>
+      <item value="strict-origin-when-cross-origin" />
       <item value="true if the run() method should be invoked. false will not invoke the run() method" />
       <item value="a &quot;true&quot; return from this method means that the run() method should be invoked" />
       <item value="formula Data" />
@@ -132,12 +133,11 @@
       <item value="运算符" />
       <item value="操作符" />
       <item value="解析" />
-      <item value="ji" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="1" />
-        <entry key="CHINESE" value="645" />
+        <entry key="CHINESE" value="646" />
         <entry key="ENGLISH" value="646" />
         <entry key="ESPERANTO" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
