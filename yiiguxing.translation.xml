@@ -75,7 +75,7 @@
     <option name="lastTrimTime" value="1694509533163" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1715416647489" />
+    <option name="lastTrimTime" value="1716192686800" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
@@ -83,6 +83,7 @@
     <option name="newTranslationDialogX" value="651" />
     <option name="newTranslationDialogY" value="452" />
     <histories>
+      <item value="permits Per Second" />
       <item value="scavenge" />
       <item value="strict-origin-when-cross-origin" />
       <item value="true if the run() method should be invoked. false will not invoke the run() method" />
@@ -132,13 +133,12 @@
       <item value="左括号" />
       <item value="Returns a {@link Collection} containing the union of the given {@link Iterable}s. &lt;p&gt; The cardinality of each element in the returned {@link Collection} will be equal to the maximum of the cardinality of that element in the two given {@link Iterable}s. &lt;p&gt; @param a the first collection, must not be null @param b the second collection, must not be null @param &lt;O&gt; the generic type that is able to represent the types contained in both input collections. @return the union of the two collections @see CollectionaddAll public static &lt;O&gt; Collection&lt;O&gt; union(final" />
       <item value="运算符" />
-      <item value="操作符" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="1" />
         <entry key="CHINESE" value="650" />
-        <entry key="ENGLISH" value="649" />
+        <entry key="ENGLISH" value="650" />
         <entry key="ESPERANTO" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="LATIN" value="1" />
