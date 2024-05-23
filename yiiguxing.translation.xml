@@ -83,6 +83,7 @@
     <option name="newTranslationDialogX" value="651" />
     <option name="newTranslationDialogY" value="421" />
     <histories>
+      <item value=" The value of the 'Access-Control-Allow-Origin' header in the response must not be the wildcard '*' when the request's credentials mode is 'include'" />
       <item value="内容" />
       <item value="文案" />
       <item value="wen" />
@@ -132,12 +133,11 @@
       <item value="Dom" />
       <item value="failover" />
       <item value="AtomicStampedReference" />
-      <item value="synchronized" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="2" />
-        <entry key="CHINESE" value="673" />
+        <entry key="CHINESE" value="674" />
         <entry key="ENGLISH" value="673" />
         <entry key="ESPERANTO" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
