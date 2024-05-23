@@ -83,6 +83,13 @@
     <option name="newTranslationDialogX" value="651" />
     <option name="newTranslationDialogY" value="421" />
     <histories>
+      <item value="内容" />
+      <item value="文案" />
+      <item value="wen" />
+      <item value="we" />
+      <item value="巡检" />
+      <item value="provisional" />
+      <item value="temporary" />
       <item value="digital" />
       <item value="数字" />
       <item value="数" />
@@ -126,19 +133,12 @@
       <item value="failover" />
       <item value="AtomicStampedReference" />
       <item value="synchronized" />
-      <item value="epoll" />
-      <item value="epol" />
-      <item value="DO" />
-      <item value="squash commit" />
-      <item value="squash" />
-      <item value="s'qu" />
-      <item value="abnormal" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="2" />
-        <entry key="CHINESE" value="659" />
-        <entry key="ENGLISH" value="659" />
+        <entry key="CHINESE" value="673" />
+        <entry key="ENGLISH" value="673" />
         <entry key="ESPERANTO" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="LATIN" value="1" />
