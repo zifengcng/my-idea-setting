@@ -2523,6 +2523,11 @@
                       <FeaturePluginData displayName="Nodeunit" pluginName="Node.js" pluginId="NodeJS" />
                     </value>
                   </entry>
+                  <entry key="ProxyRemoteRunner">
+                    <value>
+                      <FeaturePluginData displayName="jdos远程调试" pluginName="藏经阁插件" pluginId="com.jd.workflow.plugin" />
+                    </value>
+                  </entry>
                   <entry key="QuarkusRunConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Quarkus" pluginName="Quarkus" pluginId="com.intellij.quarkus" />
