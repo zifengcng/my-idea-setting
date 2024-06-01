@@ -83,6 +83,16 @@
     <option name="newTranslationDialogX" value="651" />
     <option name="newTranslationDialogY" value="421" />
     <histories>
+      <item value="预警" />
+      <item value="运行中" />
+      <item value="已暂停" />
+      <item value="过期" />
+      <item value="暂停" />
+      <item value="预警任务数量" />
+      <item value="总览" />
+      <item value="总的" />
+      <item value="汇总" />
+      <item value="analytical" />
       <item value="the VM may need to be forcibly terminated" />
       <item value="reserved" />
       <item value="UseCMSCompactAtFullCollection is deprecated and will likely be removed in a future release" />
@@ -123,22 +133,12 @@
       <item value="the number of elements the stream should be limited to" />
       <item value="subtract" />
       <item value="you have a reputation" />
-      <item value="reputation" />
-      <item value="Set a named variable within this evaluation context to a specified value. @param name the name of the variable to set @param value the value to be placed in the variable" />
-      <item value="触发规则" />
-      <item value="对" />
-      <item value="成功" />
-      <item value="c" />
-      <item value="分类" />
-      <item value="异常分类" />
-      <item value="meet" />
-      <item value="Radio" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="2" />
-        <entry key="CHINESE" value="677" />
-        <entry key="ENGLISH" value="674" />
+        <entry key="CHINESE" value="733" />
+        <entry key="ENGLISH" value="729" />
         <entry key="ESPERANTO" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="LATIN" value="1" />
