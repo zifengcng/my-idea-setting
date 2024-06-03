@@ -75,7 +75,7 @@
     <option name="lastTrimTime" value="1694509533163" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1716881848831" />
+    <option name="lastTrimTime" value="1717403734882" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
@@ -83,6 +83,7 @@
     <option name="newTranslationDialogX" value="651" />
     <option name="newTranslationDialogY" value="421" />
     <histories>
+      <item value="vote" />
       <item value="Time Unit" />
       <item value="the amount of date or time to be added to the field" />
       <item value="暂停" />
@@ -132,12 +133,11 @@
       <item value="ENABLE S 3_SIGV 4_SYSTEM PROPERTY" />
       <item value="upload" />
       <item value="func" />
-      <item value="应用" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="2" />
-        <entry key="CHINESE" value="748" />
+        <entry key="CHINESE" value="750" />
         <entry key="ENGLISH" value="746" />
         <entry key="ESPERANTO" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
