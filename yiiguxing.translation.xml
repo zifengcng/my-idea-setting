@@ -83,6 +83,7 @@
     <option name="newTranslationDialogX" value="651" />
     <option name="newTranslationDialogY" value="421" />
     <histories>
+      <item value="累计" />
       <item value="周期" />
       <item value="opportunity" />
       <item value="时机" />
@@ -132,13 +133,12 @@
       <item value="formula Data" />
       <item value="in the yard to the standard-output stream:" />
       <item value="additional Part" />
-      <item value="permits Per Second" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="2" />
-        <entry key="CHINESE" value="777" />
-        <entry key="ENGLISH" value="773" />
+        <entry key="CHINESE" value="782" />
+        <entry key="ENGLISH" value="778" />
         <entry key="ESPERANTO" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="LATIN" value="1" />
