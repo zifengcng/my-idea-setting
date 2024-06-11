@@ -75,7 +75,7 @@
     <option name="lastTrimTime" value="1694509533163" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1717403734882" />
+    <option name="lastTrimTime" value="1718096698305" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
@@ -83,6 +83,8 @@
     <option name="newTranslationDialogX" value="651" />
     <option name="newTranslationDialogY" value="421" />
     <histories>
+      <item value="callback" />
+      <item value="ca" />
       <item value="累计" />
       <item value="周期" />
       <item value="opportunity" />
@@ -131,13 +133,11 @@
       <item value="数" />
       <item value="数据" />
       <item value="formula Data" />
-      <item value="in the yard to the standard-output stream:" />
-      <item value="additional Part" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="2" />
-        <entry key="CHINESE" value="782" />
+        <entry key="CHINESE" value="783" />
         <entry key="ENGLISH" value="778" />
         <entry key="ESPERANTO" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
