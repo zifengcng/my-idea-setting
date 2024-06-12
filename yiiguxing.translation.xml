@@ -83,6 +83,7 @@
     <option name="newTranslationDialogX" value="651" />
     <option name="newTranslationDialogY" value="421" />
     <histories>
+      <item value="Expose" />
       <item value="callback" />
       <item value="ca" />
       <item value="累计" />
@@ -132,13 +133,12 @@
       <item value="数字" />
       <item value="数" />
       <item value="数据" />
-      <item value="formula Data" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="2" />
         <entry key="CHINESE" value="783" />
-        <entry key="ENGLISH" value="778" />
+        <entry key="ENGLISH" value="779" />
         <entry key="ESPERANTO" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="LATIN" value="1" />
