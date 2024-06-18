@@ -83,6 +83,10 @@
     <option name="newTranslationDialogX" value="651" />
     <option name="newTranslationDialogY" value="421" />
     <histories>
+      <item value="续期" />
+      <item value="x" />
+      <item value="更新" />
+      <item value="Renew" />
       <item value="This failure was cached in the local repository and resolution is not reattempted until the update interval of snapshots has elapsed or updates are forced" />
       <item value="指标卡" />
       <item value="例子" />
@@ -129,16 +133,12 @@
       <item value="总览" />
       <item value="总的" />
       <item value="汇总" />
-      <item value="analytical" />
-      <item value="the VM may need to be forcibly terminated" />
-      <item value="reserved" />
-      <item value="UseCMSCompactAtFullCollection is deprecated and will likely be removed in a future release" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="2" />
-        <entry key="CHINESE" value="829" />
-        <entry key="ENGLISH" value="823" />
+        <entry key="CHINESE" value="839" />
+        <entry key="ENGLISH" value="833" />
         <entry key="ESPERANTO" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="LATIN" value="1" />
