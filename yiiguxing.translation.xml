@@ -83,6 +83,7 @@
     <option name="newTranslationDialogX" value="651" />
     <option name="newTranslationDialogY" value="421" />
     <histories>
+      <item value="Opportunity" />
       <item value="太多" />
       <item value="t" />
       <item value="多于" />
@@ -132,13 +133,12 @@
       <item value="机会" />
       <item value="shi'ji" />
       <item value="实际" />
-      <item value="s" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="2" />
         <entry key="CHINESE" value="903" />
-        <entry key="ENGLISH" value="900" />
+        <entry key="ENGLISH" value="901" />
         <entry key="ESPERANTO" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="LATIN" value="1" />
