@@ -83,6 +83,7 @@
     <option name="newTranslationDialogX" value="651" />
     <option name="newTranslationDialogY" value="421" />
     <histories>
+      <item value="timestamp" />
       <item value="时间戳&#10;" />
       <item value="时间chui" />
       <item value="Unix" />
@@ -132,13 +133,12 @@
       <item value="点踩" />
       <item value="feedbackContent" />
       <item value="Vote" />
-      <item value="、Vote" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="2" />
         <entry key="CHINESE" value="873" />
-        <entry key="ENGLISH" value="869" />
+        <entry key="ENGLISH" value="870" />
         <entry key="ESPERANTO" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="LATIN" value="1" />
