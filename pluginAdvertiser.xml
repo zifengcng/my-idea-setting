@@ -2618,6 +2618,11 @@
                       <FeaturePluginData displayName="Mocha" pluginName="Node.js" pluginId="NodeJS" />
                     </value>
                   </entry>
+                  <entry key="org.kubicz.mavenexecutor.runconfiguration.MavenExecutorRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Maven" pluginName="Maven Executor" pluginId="org.kubicz.mavenexecutor.plugin.id" />
+                    </value>
+                  </entry>
                 </map>
               </option>
             </FeaturePluginsList>
