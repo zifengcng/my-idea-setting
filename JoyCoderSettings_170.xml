@@ -1,7 +1,8 @@
 <application>
   <component name="settings.state.JoyCoder.com.jdh.SettingsState">
     <option name="userToken" value="AxjE3xeX0L6lYwy4bJaGBFXmzSLR1H031I7iuSjTD8k=" />
-    <option name="saytEnabled" value="false" />
+    <option name="saytEnabled" value="true" />
+    <option name="completionUserSetFlag" value="true" />
     <option name="completionModelConfig" value="JoyCoder-Base-Lite" />
   </component>
 </application>
