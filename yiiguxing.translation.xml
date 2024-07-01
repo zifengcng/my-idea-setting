@@ -75,7 +75,7 @@
     <option name="lastTrimTime" value="1694509533163" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1719201277350" />
+    <option name="lastTrimTime" value="1719805272767" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
@@ -83,6 +83,7 @@
     <option name="newTranslationDialogX" value="651" />
     <option name="newTranslationDialogY" value="421" />
     <histories>
+      <item value="ot eligible for auto-proxying" />
       <item value="estimate Regression Parameters" />
       <item value="regression Parameters" />
       <item value="correlation Factor 1" />
@@ -132,13 +133,12 @@
       <item value="ca" />
       <item value="累计" />
       <item value="周期" />
-      <item value="opportunity" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="2" />
-        <entry key="CHINESE" value="904" />
-        <entry key="ENGLISH" value="905" />
+        <entry key="CHINESE" value="905" />
+        <entry key="ENGLISH" value="906" />
         <entry key="ESPERANTO" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="LATIN" value="1" />
