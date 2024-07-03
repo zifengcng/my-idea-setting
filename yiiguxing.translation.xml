@@ -83,6 +83,10 @@
     <option name="newTranslationDialogX" value="651" />
     <option name="newTranslationDialogY" value="421" />
     <histories>
+      <item value="vote False Positive" />
+      <item value="误报" />
+      <item value="反馈误报" />
+      <item value="pause" />
       <item value="ot eligible for auto-proxying" />
       <item value="estimate Regression Parameters" />
       <item value="regression Parameters" />
@@ -129,16 +133,12 @@
       <item value="简版" />
       <item value="alarmOpportunities" />
       <item value="Expose" />
-      <item value="callback" />
-      <item value="ca" />
-      <item value="累计" />
-      <item value="周期" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="2" />
-        <entry key="CHINESE" value="905" />
-        <entry key="ENGLISH" value="906" />
+        <entry key="CHINESE" value="909" />
+        <entry key="ENGLISH" value="910" />
         <entry key="ESPERANTO" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="LATIN" value="1" />
