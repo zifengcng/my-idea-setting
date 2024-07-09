@@ -75,7 +75,7 @@
     <option name="lastTrimTime" value="1694509533163" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1719805272767" />
+    <option name="lastTrimTime" value="1720505959415" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
@@ -83,6 +83,11 @@
     <option name="newTranslationDialogX" value="651" />
     <option name="newTranslationDialogY" value="421" />
     <histories>
+      <item value="risk" />
+      <item value="risky" />
+      <item value="超级风险" />
+      <item value="普通风险" />
+      <item value="中级风险" />
       <item value="vote False Positive" />
       <item value="误报" />
       <item value="反馈误报" />
@@ -128,17 +133,12 @@
       <item value="简单" />
       <item value="简但" />
       <item value="简" />
-      <item value="简d" />
-      <item value="简dan" />
-      <item value="简版" />
-      <item value="alarmOpportunities" />
-      <item value="Expose" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="2" />
-        <entry key="CHINESE" value="909" />
-        <entry key="ENGLISH" value="910" />
+        <entry key="CHINESE" value="914" />
+        <entry key="ENGLISH" value="915" />
         <entry key="ESPERANTO" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="LATIN" value="1" />
