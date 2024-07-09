@@ -83,6 +83,7 @@
     <option name="newTranslationDialogX" value="651" />
     <option name="newTranslationDialogY" value="421" />
     <histories>
+      <item value="分析预警" />
       <item value="risk" />
       <item value="risky" />
       <item value="超级风险" />
@@ -115,7 +116,6 @@
       <item value="minute" />
       <item value="周" />
       <item value="周几" />
-      <item value="分析预警" />
       <item value="定期执行" />
       <item value="周期执行" />
       <item value="天以上" />
@@ -137,7 +137,7 @@
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="2" />
-        <entry key="CHINESE" value="914" />
+        <entry key="CHINESE" value="915" />
         <entry key="ENGLISH" value="915" />
         <entry key="ESPERANTO" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
