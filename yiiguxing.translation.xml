@@ -83,6 +83,7 @@
     <option name="newTranslationDialogX" value="651" />
     <option name="newTranslationDialogY" value="421" />
     <histories>
+      <item value="成交金额" />
       <item value="分析预警" />
       <item value="risk" />
       <item value="risky" />
@@ -132,13 +133,12 @@
       <item value="简短" />
       <item value="简单" />
       <item value="简但" />
-      <item value="简" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="2" />
-        <entry key="CHINESE" value="915" />
-        <entry key="ENGLISH" value="915" />
+        <entry key="CHINESE" value="916" />
+        <entry key="ENGLISH" value="916" />
         <entry key="ESPERANTO" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="LATIN" value="1" />
