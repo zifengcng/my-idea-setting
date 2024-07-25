@@ -83,6 +83,7 @@
     <option name="newTranslationDialogX" value="651" />
     <option name="newTranslationDialogY" value="421" />
     <histories>
+      <item value="Abnormal" />
       <item value="accumulative" />
       <item value="累计" />
       <item value="从零点开始" />
@@ -132,13 +133,12 @@
       <item value="超过" />
       <item value="超过开启的预警任务数量" />
       <item value="timestamp" />
-      <item value="时间戳&#10;" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="2" />
         <entry key="CHINESE" value="968" />
-        <entry key="ENGLISH" value="968" />
+        <entry key="ENGLISH" value="969" />
         <entry key="ESPERANTO" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="LATIN" value="1" />
