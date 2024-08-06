@@ -75,7 +75,7 @@
     <option name="lastTrimTime" value="1694509533163" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1721708514172" />
+    <option name="lastTrimTime" value="1722913123194" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
@@ -83,6 +83,7 @@
     <option name="newTranslationDialogX" value="651" />
     <option name="newTranslationDialogY" value="421" />
     <histories>
+      <item value="Returns the value of the given calendar field. In lenient mode, all calendar fields are normalized. In non-lenient mode, all calendar fields are validated and this method throws an exception if any calendar fields have out-of-range values. The normalization and validation are handled by the complete() method, which process is calendar system dependent. Params: field – the given calendar field. Returns: the value for the given calendar field. Throws: ArrayIndexOutOfBoundsException – if the specified field is out of range (field &lt; 0 || field &gt;= FIELD_COUNT)." />
       <item value="开启任务" />
       <item value="is Abnormal" />
       <item value="达成" />
@@ -132,13 +133,12 @@
       <item value="Opportunity" />
       <item value="太多" />
       <item value="t" />
-      <item value="多于" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="2" />
-        <entry key="CHINESE" value="976" />
-        <entry key="ENGLISH" value="977" />
+        <entry key="CHINESE" value="977" />
+        <entry key="ENGLISH" value="978" />
         <entry key="ESPERANTO" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="LATIN" value="1" />
