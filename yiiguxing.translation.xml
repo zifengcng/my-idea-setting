@@ -83,6 +83,7 @@
     <option name="newTranslationDialogX" value="651" />
     <option name="newTranslationDialogY" value="421" />
     <histories>
+      <item value="Copyright (c) 2010, 2013, Oracle andor its affiliates. All rights reserved. ORACLE PROPRIETARYCONFIDENTIAL. Use is subject to license terms." />
       <item value="Returns the value of the given calendar field. In lenient mode, all calendar fields are normalized. In non-lenient mode, all calendar fields are validated and this method throws an exception if any calendar fields have out-of-range values. The normalization and validation are handled by the complete() method, which process is calendar system dependent. Params: field – the given calendar field. Returns: the value for the given calendar field. Throws: ArrayIndexOutOfBoundsException – if the specified field is out of range (field &lt; 0 || field &gt;= FIELD_COUNT)." />
       <item value="开启任务" />
       <item value="is Abnormal" />
@@ -132,13 +133,12 @@
       <item value="Asia Shanghai" />
       <item value="Opportunity" />
       <item value="太多" />
-      <item value="t" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="2" />
-        <entry key="CHINESE" value="977" />
-        <entry key="ENGLISH" value="978" />
+        <entry key="CHINESE" value="978" />
+        <entry key="ENGLISH" value="979" />
         <entry key="ESPERANTO" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="LATIN" value="1" />
