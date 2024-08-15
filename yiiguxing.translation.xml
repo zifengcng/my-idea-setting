@@ -83,6 +83,8 @@
     <option name="newTranslationDialogX" value="651" />
     <option name="newTranslationDialogY" value="421" />
     <histories>
+      <item value="溢出" />
+      <item value="UMP KEY JM ACTION THREAD POOL OUT FAIL" />
       <item value="hex Digest" />
       <item value="下划线" />
       <item value="UNDER SCARE" />
@@ -131,14 +133,12 @@
       <item value="误报" />
       <item value="反馈误报" />
       <item value="pause" />
-      <item value="ot eligible for auto-proxying" />
-      <item value="estimate Regression Parameters" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="2" />
-        <entry key="CHINESE" value="992" />
-        <entry key="ENGLISH" value="993" />
+        <entry key="CHINESE" value="994" />
+        <entry key="ENGLISH" value="994" />
         <entry key="ESPERANTO" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="LATIN" value="1" />
