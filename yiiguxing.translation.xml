@@ -83,6 +83,9 @@
     <option name="newTranslationDialogX" value="651" />
     <option name="newTranslationDialogY" value="421" />
     <histories>
+      <item value="南方" />
+      <item value="北方" />
+      <item value="b" />
       <item value="溢出" />
       <item value="UMP KEY JM ACTION THREAD POOL OUT FAIL" />
       <item value="hex Digest" />
@@ -130,15 +133,12 @@
       <item value="普通风险" />
       <item value="中级风险" />
       <item value="vote False Positive" />
-      <item value="误报" />
-      <item value="反馈误报" />
-      <item value="pause" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="2" />
-        <entry key="CHINESE" value="994" />
-        <entry key="ENGLISH" value="994" />
+        <entry key="CHINESE" value="1008" />
+        <entry key="ENGLISH" value="1008" />
         <entry key="ESPERANTO" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="LATIN" value="1" />
