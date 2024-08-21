@@ -83,6 +83,7 @@
     <option name="newTranslationDialogX" value="651" />
     <option name="newTranslationDialogY" value="421" />
     <histories>
+      <item value="inspection" />
       <item value="南方" />
       <item value="so" />
       <item value="sorth" />
@@ -132,13 +133,12 @@
       <item value="分析预警" />
       <item value="risk" />
       <item value="risky" />
-      <item value="超级风险" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="2" />
         <entry key="CHINESE" value="1021" />
-        <entry key="ENGLISH" value="1021" />
+        <entry key="ENGLISH" value="1022" />
         <entry key="ESPERANTO" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="LATIN" value="1" />
