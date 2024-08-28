@@ -1,0 +1,19 @@
+<application>
+  <component name="settings.state.JoyCoder.com.jdh.SettingsState">
+    <option name="internalCompletionModel">
+      <ChatCompletionModel>
+        <option name="code" value="Chatrhino-81B" />
+        <option name="description" value="Chatrhino-81B，京东集团自主研发的通用对话大语言模型，被广泛应用于智能客服、智能问答、智能写作等领域" />
+        <option name="icon" value="https://img12.360buyimg.com/img/jfs/t1/233632/24/14048/2756/6606b975Fc01ea416/82d100921c2627e3.jpg" />
+        <option name="showName" value="京东言犀81B" />
+        <option name="systemKey" value="system" />
+        <option name="systemValue" value="" />
+      </ChatCompletionModel>
+    </option>
+    <option name="chatCompletionModelConfig" value="Chatrhino-81B" />
+    <option name="userToken" value="TIWrRjzFQ8ancxgVMnYN3bT4sfHtVV034Yna0Z8+EVA=" />
+    <option name="userCookie" value="__jdu=1688640745637805816656;shshshfpa=48e11047-bce8-84b3-b2ca-bb80e2dfa3e1-1692935673;shshshfpx=48e11047-bce8-84b3-b2ca-bb80e2dfa3e1-1692935673;__jdv=138716325|direct|-|none|-|1723796535546;3AB9D23F7A4B3CSS=jdd03MEC6DIDLWRKPJE22RNUJBSXZBSY6NQ3XY36ARIV4DG72WWAKODLSCSP7P2POXYT5R2XFD6DLPAYQ6EJQJ27UGI67CUAAAAMRP5GAZ5IAAAAADGGJAOSQ2ASR4AX;areaId=1;ipLoc-djd=1-2809-0-0;PCSYCityID=CN_110000_110100_0;shshshfpb=BApXS_79EfPRAF75XTq9qBwAD0vdZGRI7B9DSUVxX9xJ1MsUPu4O2;osw_erp=wubaocheng1;focus-token=ee.49e6067d312754306c99912ab13b4550;focus-team-id=00046419;focus-client=WEB;sensorsdata2015jssdkcross=%7B%22distinct_id%22%3A%2216340%22%2C%22%24device_id%22%3A%2218ba3eec8c11852-013865d39a6568-17525634-1d73c0-18ba3eec8c22c34%22%2C%22props%22%3A%7B%7D%2C%22first_id%22%3A%2218ba3eec8c11852-013865d39a6568-17525634-1d73c0-18ba3eec8c22c34%22%7D;jd.erp.lang=zh_CN;jdd69fo72b8lfeoe=HS5CMJHRSYL27EU27TEELSZLP3TLQ3UYR7QOO7FPPQZKI4VYXPY2HSJXMBFXCTPK5SBGN5KP5PWH4S5DNFEVHZWZB4;logbook_u=wubaocheng1;me_token=ee.49e6067d312754306c99912ab13b4550;sso.jd.com=BJ.7ED3F8D9D6E931485C68E830F1DBBB1F.7220240827114652;uas_jtoken=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjb21wYW55SWQiOiJqZGpyIiwidGlja2V0IjoiNjYwNWJjODE5ZjU3NmIyNDRiODg3MGEyOTA1ZGNmYmUiLCJhY2NvdW50VHlwZSI6MCwiaXNzIjoiVUFTIiwiZXhwIjozNDUyNzMwNDEyLCJ1c2VybmFtZSI6Ind1YmFvY2hlbmcxIn0.83F3tAewtAKM7wrFp08E5Y8i7nGBklEjZfp9ezjNthI;_erp=wubaocheng1;erp=d3rQkNvBwCvX05IQp37cyg==;erp_account=wubaocheng1;3AB9D23F7A4B3C9B=MEC6DIDLWRKPJE22RNUJBSXZBSY6NQ3XY36ARIV4DG72WWAKODLSCSP7P2POXYT5R2XFD6DLPAYQ6EJQJ27UGI67CU;RT=z=1&amp;dm=jd.com&amp;si=f5ttjfi93ne&amp;ss=m0buuwnf&amp;sl=0&amp;tt=0&amp;ld=1ja&amp;ul=rqfpa&amp;hd=rqfs6;token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkpXRU92RThlTVA1emIyUTBDZEs4IiwiZXhwIjoxNzI1NDMwMDAwLCJpYXQiOjE3MjQ4MjUyMDB9.2P97F4pe5mR5iR0JRlSFen77uE6BdWJLHnJwu0m-Eno;ssa.origin-api=2b16bf126a49e58d7aaf7d6b8a0030b3d7da9733db8d8fd593eb28f14502e07547b83aa93b09d0e727b85ffbbbfeefc999049441fffb86570b075d43cf0c8eab6dc5dc6f864d72460762f20fe789bed367f00ce056abea8440f576ec68988f1b2b866ffbce7c17f06e33247dbe69f2c06e944c5a697636cc89854b48ed2534cd;ssa.origin-gateway=66fd8fd459a60a025a1896a88dc48163b70508238d5174a2cc1808b445cf154a863e18eb21a0919909df0a08446b4c69f8e59a6d4e7c4101fc9ba80ca48fd544e61917c3120eb06aa69b1f42513c6d583ea7b1b8037b4a3834be0e52886c4f3e6c52be8a01b51c0a6306f7af6c04fe6de40d96b547c3164aaac52e9a42aac3fb;ssa.global.ticket=30417ba8192c98312b5ad5157fa5c429874d5c402b85d8e8c028b5f5c2c147eb;__jda=101385626.1688640745637805816656.1688640746.1690181509.1701756175.65;__jdc=101385626;__jdb=101385626.98.1688640745637805816656|65.1701756175;ssa.gptserver.state=I7-gNmLXVyAvMb0w3bcVAxK8PKr6KXFLVXRgp3dFCPM;ssa.oidc.qc=Y29kZT1OUkE3T19yVjc1aS1aWVBLRldhTjlJU0hGd1U0bkgxWmpVVUhGb04xV0EwJnN0YXRlPUk3LWdObUxYVnlBdk1iMHczYmNWQXhLOFBLcjZLWEZMVlhSZ3AzZEZDUE0=;" />
+    <option name="saytEnabled" value="false" />
+    <option name="completionModelConfig" value="JoyCoder-Base-Lite" />
+  </component>
+</application>
