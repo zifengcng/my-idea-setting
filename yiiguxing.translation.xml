@@ -83,6 +83,7 @@
     <option name="newTranslationDialogX" value="651" />
     <option name="newTranslationDialogY" value="421" />
     <histories>
+      <item value="trick" />
       <item value="mail" />
       <item value="结果" />
       <item value="竖线" />
@@ -132,13 +133,12 @@
       <item value="Field number for get and set indicating the day number within the current year. The first day of the year has value 1." />
       <item value="Field number for get and set indicating the day of the month. This is a synonym for DAY_OF_MONTH. The first day of the month has value 1." />
       <item value="Field number for get and set indicating the day of the week. This field takes values SUNDAY, MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY, and SATURDAY." />
-      <item value="receive Alarm Element" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="2" />
-        <entry key="CHINESE" value="1058" />
-        <entry key="ENGLISH" value="1056" />
+        <entry key="CHINESE" value="1063" />
+        <entry key="ENGLISH" value="1060" />
         <entry key="ESPERANTO" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="LATIN" value="1" />
