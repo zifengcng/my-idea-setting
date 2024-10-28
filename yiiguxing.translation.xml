@@ -83,6 +83,7 @@
     <option name="newTranslationDialogX" value="651" />
     <option name="newTranslationDialogY" value="421" />
     <histories>
+      <item value="milliseconds" />
       <item value="solid" />
       <item value="failover" />
       <item value="巡检" />
@@ -132,12 +133,11 @@
       <item value="accumulative" />
       <item value="累计" />
       <item value="从零点开始" />
-      <item value="当天累计" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="2" />
-        <entry key="CHINESE" value="1101" />
+        <entry key="CHINESE" value="1102" />
         <entry key="ENGLISH" value="1097" />
         <entry key="ESPERANTO" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
