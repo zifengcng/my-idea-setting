@@ -75,7 +75,7 @@
     <option name="lastTrimTime" value="1694509533163" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1730715655557" />
+    <option name="lastTrimTime" value="1731579596019" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
@@ -83,6 +83,12 @@
     <option name="newTranslationDialogX" value="651" />
     <option name="newTranslationDialogY" value="421" />
     <histories>
+      <item value="recommend" />
+      <item value="推荐&#10;" />
+      <item value="推荐阈值" />
+      <item value="推荐" />
+      <item value="阈值推荐" />
+      <item value="t" />
       <item value="asset" />
       <item value="as" />
       <item value="每一个" />
@@ -127,18 +133,12 @@
       <item value="溢出" />
       <item value="UMP KEY JM ACTION THREAD POOL OUT FAIL" />
       <item value="hex Digest" />
-      <item value="下划线" />
-      <item value="UNDER SCARE" />
-      <item value="重复" />
-      <item value="c" />
-      <item value="Repate" />
-      <item value="is not eligible for getting processed by all BeanPostProcessors" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="2" />
-        <entry key="CHINESE" value="1117" />
-        <entry key="ENGLISH" value="1113" />
+        <entry key="CHINESE" value="1126" />
+        <entry key="ENGLISH" value="1122" />
         <entry key="ESPERANTO" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="LATIN" value="1" />
