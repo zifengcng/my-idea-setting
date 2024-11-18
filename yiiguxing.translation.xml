@@ -83,6 +83,8 @@
     <option name="newTranslationDialogX" value="651" />
     <option name="newTranslationDialogY" value="421" />
     <histories>
+      <item value="threshold_issues" />
+      <item value="THRESHOLD_ISSUES" />
       <item value="recommend" />
       <item value="推荐&#10;" />
       <item value="推荐阈值" />
@@ -131,14 +133,12 @@
       <item value="北方" />
       <item value="b" />
       <item value="溢出" />
-      <item value="UMP KEY JM ACTION THREAD POOL OUT FAIL" />
-      <item value="hex Digest" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="2" />
-        <entry key="CHINESE" value="1126" />
-        <entry key="ENGLISH" value="1122" />
+        <entry key="CHINESE" value="1128" />
+        <entry key="ENGLISH" value="1123" />
         <entry key="ESPERANTO" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="LATIN" value="1" />
