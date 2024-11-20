@@ -83,6 +83,7 @@
     <option name="newTranslationDialogX" value="651" />
     <option name="newTranslationDialogY" value="421" />
     <histories>
+      <item value="阈值推荐" />
       <item value="squash" />
       <item value="squas" />
       <item value="squs" />
@@ -98,7 +99,6 @@
       <item value="推荐&#10;" />
       <item value="推荐阈值" />
       <item value="推荐" />
-      <item value="阈值推荐" />
       <item value="t" />
       <item value="asset" />
       <item value="as" />
@@ -137,8 +137,8 @@
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="2" />
-        <entry key="CHINESE" value="1135" />
-        <entry key="ENGLISH" value="1131" />
+        <entry key="CHINESE" value="1136" />
+        <entry key="ENGLISH" value="1132" />
         <entry key="ESPERANTO" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="JAPANESE" value="1" />
