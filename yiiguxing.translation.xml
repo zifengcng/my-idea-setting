@@ -83,6 +83,7 @@
     <option name="newTranslationDialogX" value="651" />
     <option name="newTranslationDialogY" value="421" />
     <histories>
+      <item value="统计时间" />
       <item value="汇总" />
       <item value="hui" />
       <item value="Transaction System Exception" />
@@ -132,13 +133,12 @@
       <item value="trick" />
       <item value="mail" />
       <item value="结果" />
-      <item value="竖线" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="2" />
-        <entry key="CHINESE" value="1162" />
-        <entry key="ENGLISH" value="1162" />
+        <entry key="CHINESE" value="1168" />
+        <entry key="ENGLISH" value="1168" />
         <entry key="ESPERANTO" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="JAPANESE" value="1" />
