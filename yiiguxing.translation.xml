@@ -83,6 +83,7 @@
     <option name="newTranslationDialogX" value="651" />
     <option name="newTranslationDialogY" value="421" />
     <histories>
+      <item value="include" />
       <item value="需要菜单" />
       <item value="需要菜单权限" />
       <item value="The annotated element must not be null and must contain at least one non-whitespace character. Accepts CharSequence." />
@@ -132,12 +133,11 @@
       <item value="巡检" />
       <item value="check" />
       <item value="治理风险" />
-      <item value="风险" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="2" />
-        <entry key="CHINESE" value="1187" />
+        <entry key="CHINESE" value="1188" />
         <entry key="ENGLISH" value="1188" />
         <entry key="ESPERANTO" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
