@@ -83,6 +83,10 @@
     <option name="newTranslationDialogX" value="651" />
     <option name="newTranslationDialogY" value="422" />
     <histories>
+      <item value="brief" />
+      <item value="briefness" />
+      <item value="简单" />
+      <item value="简单保存" />
       <item value="规则关系" />
       <item value="g" />
       <item value="关系" />
@@ -129,16 +133,12 @@
       <item value="eachone" />
       <item value="PROACTIVE MONITOR" />
       <item value="Data Inspection" />
-      <item value="instructions" />
-      <item value="inst" />
-      <item value="cov" />
-      <item value="phase" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="2" />
-        <entry key="CHINESE" value="1208" />
-        <entry key="ENGLISH" value="1208" />
+        <entry key="CHINESE" value="1216" />
+        <entry key="ENGLISH" value="1216" />
         <entry key="ESPERANTO" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="JAPANESE" value="1" />
