@@ -83,6 +83,7 @@
     <option name="newTranslationDialogX" value="651" />
     <option name="newTranslationDialogY" value="422" />
     <histories>
+      <item value="条件" />
       <item value="brief" />
       <item value="briefness" />
       <item value="简单" />
@@ -93,7 +94,6 @@
       <item value="备注" />
       <item value="备注字段" />
       <item value="预览名单" />
-      <item value="条件" />
       <item value="tia" />
       <item value="include" />
       <item value="需要菜单" />
@@ -137,8 +137,8 @@
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="2" />
-        <entry key="CHINESE" value="1216" />
-        <entry key="ENGLISH" value="1216" />
+        <entry key="CHINESE" value="1224" />
+        <entry key="ENGLISH" value="1224" />
         <entry key="ESPERANTO" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="JAPANESE" value="1" />
