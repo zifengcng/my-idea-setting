@@ -75,7 +75,7 @@
     <option name="lastTrimTime" value="1694509533163" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1734502755723" />
+    <option name="lastTrimTime" value="1734936015422" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
@@ -83,6 +83,9 @@
     <option name="newTranslationDialogX" value="651" />
     <option name="newTranslationDialogY" value="422" />
     <histories>
+      <item value="规则关系" />
+      <item value="g" />
+      <item value="关系" />
       <item value="备注" />
       <item value="备注字段" />
       <item value="预览名单" />
@@ -130,15 +133,12 @@
       <item value="inst" />
       <item value="cov" />
       <item value="phase" />
-      <item value="COMPILATION ERROR" />
-      <item value="if the specified map is null, or if this map does not permit null keys or values, and the specified map contains null keys or values" />
-      <item value="milliseconds" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="2" />
-        <entry key="CHINESE" value="1197" />
-        <entry key="ENGLISH" value="1197" />
+        <entry key="CHINESE" value="1208" />
+        <entry key="ENGLISH" value="1208" />
         <entry key="ESPERANTO" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="JAPANESE" value="1" />
