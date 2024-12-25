@@ -83,6 +83,9 @@
     <option name="newTranslationDialogX" value="651" />
     <option name="newTranslationDialogY" value="422" />
     <histories>
+      <item value="黑名单" />
+      <item value="白名单" />
+      <item value="whiteList" />
       <item value="DimValueListVo" />
       <item value="Add unambiguous imports on the fly" />
       <item value="pause" />
@@ -130,15 +133,12 @@
       <item value="推荐阈值" />
       <item value="推荐" />
       <item value="t" />
-      <item value="asset" />
-      <item value="as" />
-      <item value="每一个" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="2" />
-        <entry key="CHINESE" value="1226" />
-        <entry key="ENGLISH" value="1226" />
+        <entry key="CHINESE" value="1227" />
+        <entry key="ENGLISH" value="1227" />
         <entry key="ESPERANTO" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="JAPANESE" value="1" />
