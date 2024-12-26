@@ -83,6 +83,7 @@
     <option name="newTranslationDialogX" value="651" />
     <option name="newTranslationDialogY" value="422" />
     <histories>
+      <item value="retain All" />
       <item value="采销岗分类" />
       <item value="提交并申请运行" />
       <item value="SAVE BASIC" />
@@ -132,13 +133,12 @@
       <item value="squa" />
       <item value="sq" />
       <item value="阈值" />
-      <item value="Recommend Expected Value" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="2" />
         <entry key="CHINESE" value="1233" />
-        <entry key="ENGLISH" value="1233" />
+        <entry key="ENGLISH" value="1234" />
         <entry key="ESPERANTO" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="JAPANESE" value="1" />
