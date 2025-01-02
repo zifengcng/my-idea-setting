@@ -84,6 +84,7 @@
     <option name="newTranslationDialogY" value="422" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="max Evictable Idle Time Millis" />
       <item value="formal" />
       <item value="official" />
       <item value="正式" />
@@ -133,7 +134,6 @@
       <item value="subtract" />
       <item value="管理" />
       <item value="运维" />
-      <item value="Issues Count" />
     </histories>
     <option name="languageScores">
       <map>
@@ -143,7 +143,7 @@
         <entry key="ESPERANTO" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="JAPANESE" value="1" />
-        <entry key="LATIN" value="1" />
+        <entry key="LATIN" value="2" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="UZBEK" value="1" />
         <entry key="VIETNAMESE" value="1" />
