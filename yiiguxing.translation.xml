@@ -82,8 +82,13 @@
     <option name="newTranslationDialogHeight" value="286" />
     <option name="newTranslationDialogX" value="651" />
     <option name="newTranslationDialogY" value="422" />
-    <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="developer" />
+      <item value="研发人员" />
+      <item value="研发" />
+      <item value="研发1" />
+      <item value="研发&#10;" />
+      <item value="q" />
       <item value="max Evictable Idle Time Millis" />
       <item value="formal" />
       <item value="official" />
@@ -128,18 +133,12 @@
       <item value="统计时间" />
       <item value="汇总" />
       <item value="hui" />
-      <item value="Transaction System Exception" />
-      <item value="数据权限" />
-      <item value="MILLISECONDS" />
-      <item value="subtract" />
-      <item value="管理" />
-      <item value="运维" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="2" />
-        <entry key="CHINESE" value="1238" />
-        <entry key="ENGLISH" value="1238" />
+        <entry key="CHINESE" value="1245" />
+        <entry key="ENGLISH" value="1245" />
         <entry key="ESPERANTO" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="JAPANESE" value="1" />
