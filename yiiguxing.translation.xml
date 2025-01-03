@@ -82,8 +82,10 @@
     <option name="newTranslationDialogHeight" value="286" />
     <option name="newTranslationDialogX" value="651" />
     <option name="newTranslationDialogY" value="422" />
-    <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="predict" />
+      <item value="预计" />
+      <item value="预计覆盖用户数" />
       <item value="pause" />
       <item value="暂停" />
       <item value="resume" />
@@ -131,15 +133,12 @@
       <item value="预览名单" />
       <item value="tia" />
       <item value="include" />
-      <item value="需要菜单" />
-      <item value="需要菜单权限" />
-      <item value="The annotated element must not be null and must contain at least one non-whitespace character. Accepts CharSequence." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="2" />
-        <entry key="CHINESE" value="1251" />
-        <entry key="ENGLISH" value="1251" />
+        <entry key="CHINESE" value="1254" />
+        <entry key="ENGLISH" value="1254" />
         <entry key="ESPERANTO" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="JAPANESE" value="1" />
