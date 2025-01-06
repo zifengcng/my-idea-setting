@@ -75,7 +75,7 @@
     <option name="lastTrimTime" value="1694509533163" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1735530447030" />
+    <option name="lastTrimTime" value="1736134492082" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
@@ -83,6 +83,8 @@
     <option name="newTranslationDialogX" value="651" />
     <option name="newTranslationDialogY" value="422" />
     <histories>
+      <item value="左模糊查询" />
+      <item value="模糊查询" />
       <item value="predict" />
       <item value="预计" />
       <item value="预计覆盖用户数" />
@@ -131,14 +133,12 @@
       <item value="备注" />
       <item value="备注字段" />
       <item value="预览名单" />
-      <item value="tia" />
-      <item value="include" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="2" />
-        <entry key="CHINESE" value="1254" />
-        <entry key="ENGLISH" value="1254" />
+        <entry key="CHINESE" value="1256" />
+        <entry key="ENGLISH" value="1256" />
         <entry key="ESPERANTO" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="JAPANESE" value="1" />
