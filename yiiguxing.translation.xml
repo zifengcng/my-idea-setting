@@ -83,6 +83,7 @@
     <option name="newTranslationDialogX" value="651" />
     <option name="newTranslationDialogY" value="422" />
     <histories>
+      <item value="减少" />
       <item value="approval" />
       <item value="回退用户组状态" />
       <item value="已删除" />
@@ -132,13 +133,12 @@
       <item value="DimValueListVo" />
       <item value="Add unambiguous imports on the fly" />
       <item value="条件" />
-      <item value="brief" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="2" />
-        <entry key="CHINESE" value="1270" />
-        <entry key="ENGLISH" value="1270" />
+        <entry key="CHINESE" value="1271" />
+        <entry key="ENGLISH" value="1271" />
         <entry key="ESPERANTO" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="JAPANESE" value="1" />
