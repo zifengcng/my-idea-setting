@@ -83,6 +83,7 @@
     <option name="newTranslationDialogX" value="651" />
     <option name="newTranslationDialogY" value="422" />
     <histories>
+      <item value="additivity" />
       <item value="combo" />
       <item value="套餐" />
       <item value="同步" />
@@ -90,7 +91,6 @@
       <item value="if this set changed as a result of the call" />
       <item value="Adds all of the elements in the specified collection to this set if they're not already present (optional operation). If the specified collection is also a set, the &lt;tt&gt;addAll&lt;tt&gt; operation effectively modifies this set so that its value is the &lt;i&gt;union&lt;i&gt; of the two sets. The behavior of this operation is undefined if the specified collection is modified while the operation is in progress." />
       <item value="批次大小" />
-      <item value="additivity" />
       <item value="DENY" />
       <item value="PREFIX" />
       <item value="Statistics" />
@@ -138,7 +138,7 @@
       <map>
         <entry key="BULGARIAN" value="2" />
         <entry key="CHINESE" value="1302" />
-        <entry key="ENGLISH" value="1302" />
+        <entry key="ENGLISH" value="1303" />
         <entry key="ESPERANTO" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="JAPANESE" value="1" />
