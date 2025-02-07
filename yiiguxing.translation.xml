@@ -75,7 +75,7 @@
     <option name="lastTrimTime" value="1694509533163" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1737941429195" />
+    <option name="lastTrimTime" value="1738918739768" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
@@ -83,6 +83,7 @@
     <option name="newTranslationDialogX" value="651" />
     <option name="newTranslationDialogY" value="422" />
     <histories>
+      <item value="Returns the simple name of the underlying class as given in the source code. Returns an empty string if the underlying class is anonymous. &lt;p&gt;The simple name of an array is the simple name of the component type with &quot;[]&quot; appended. In particular the simple name of an array whose component type is anonymous is &quot;[]&quot;. @return the simple name of the underlying class @since 1.5" />
       <item value="additivity" />
       <item value="combo" />
       <item value="套餐" />
@@ -132,13 +133,12 @@
       <item value="研发&#10;" />
       <item value="q" />
       <item value="max Evictable Idle Time Millis" />
-      <item value="formal" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="2" />
-        <entry key="CHINESE" value="1302" />
-        <entry key="ENGLISH" value="1303" />
+        <entry key="CHINESE" value="1303" />
+        <entry key="ENGLISH" value="1304" />
         <entry key="ESPERANTO" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="JAPANESE" value="1" />
