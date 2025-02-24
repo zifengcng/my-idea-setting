@@ -83,6 +83,7 @@
     <option name="newTranslationDialogX" value="651" />
     <option name="newTranslationDialogY" value="422" />
     <histories>
+      <item value="通用分析" />
       <item value="增量" />
       <item value="全量数据" />
       <item value="同比全量数据" />
@@ -132,7 +133,6 @@
       <item value="预计覆盖用户数" />
       <item value="pause" />
       <item value="暂停" />
-      <item value="resume" />
     </histories>
     <option name="languageScores">
       <map>
