@@ -83,6 +83,7 @@
     <option name="newTranslationDialogX" value="651" />
     <option name="newTranslationDialogY" value="422" />
     <histories>
+      <item value="变更erp范围" />
       <item value="旧" />
       <item value="jiu" />
       <item value="POWER" />
@@ -132,13 +133,12 @@
       <item value="排除" />
       <item value="左模糊查询" />
       <item value="模糊查询" />
-      <item value="predict" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="2" />
-        <entry key="CHINESE" value="1323" />
-        <entry key="ENGLISH" value="1323" />
+        <entry key="CHINESE" value="1325" />
+        <entry key="ENGLISH" value="1325" />
         <entry key="ESPERANTO" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="JAPANESE" value="1" />
