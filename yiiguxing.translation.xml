@@ -75,7 +75,7 @@
     <option name="lastTrimTime" value="1694509533163" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1741160161157" />
+    <option name="lastTrimTime" value="1741746218676" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
@@ -83,6 +83,20 @@
     <option name="newTranslationDialogX" value="651" />
     <option name="newTranslationDialogY" value="422" />
     <histories>
+      <item value="Linked nodes are dynamically created upon each insertion unless this would bring the queue above capacity." />
+      <item value="unspecified" />
+      <item value="The optional capacity bound constructor argument serves as a way to prevent excessive queue expansion" />
+      <item value="expansion" />
+      <item value="excessive" />
+      <item value="prevent" />
+      <item value="bound" />
+      <item value="Linked queues typically have higher throughput than array-based queues but less predictable performance in most concurrent applications." />
+      <item value="performance" />
+      <item value="predictable" />
+      <item value="throughput" />
+      <item value="retrieval operations obtain elements" />
+      <item value="retrieval" />
+      <item value="linked" />
       <item value="trick" />
       <item value="变更erp范围" />
       <item value="旧" />
@@ -119,26 +133,12 @@
       <item value="ERP CHANGE MUCH" />
       <item value="TOO FEW" />
       <item value="人员变动过大" />
-      <item value="人数过少" />
-      <item value="yester" />
-      <item value="Failure" />
-      <item value="减少" />
-      <item value="approval" />
-      <item value="回退用户组状态" />
-      <item value="已删除" />
-      <item value="有效" />
-      <item value="无效" />
-      <item value="innodb_deadlock_detect" />
-      <item value="间接" />
-      <item value="直接领导" />
-      <item value="排除" />
-      <item value="左模糊查询" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="2" />
-        <entry key="CHINESE" value="1326" />
-        <entry key="ENGLISH" value="1325" />
+        <entry key="CHINESE" value="1339" />
+        <entry key="ENGLISH" value="1340" />
         <entry key="ESPERANTO" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="JAPANESE" value="1" />
