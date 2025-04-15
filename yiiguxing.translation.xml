@@ -83,6 +83,7 @@
     <option name="newTranslationDialogX" value="651" />
     <option name="newTranslationDialogY" value="422" />
     <histories>
+      <item value="权限变化" />
       <item value="other" />
       <item value="other person" />
       <item value="他人" />
@@ -132,13 +133,12 @@
       <item value="retain All" />
       <item value="模板" />
       <item value="ploy" />
-      <item value="策略" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="2" />
-        <entry key="CHINESE" value="1375" />
-        <entry key="ENGLISH" value="1375" />
+        <entry key="CHINESE" value="1383" />
+        <entry key="ENGLISH" value="1383" />
         <entry key="ESPERANTO" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="JAPANESE" value="1" />
