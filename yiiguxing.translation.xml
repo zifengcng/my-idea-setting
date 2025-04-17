@@ -83,6 +83,7 @@
     <option name="newTranslationDialogX" value="651" />
     <option name="newTranslationDialogY" value="422" />
     <histories>
+      <item value="Fix This Secret Leak" />
       <item value="Fake" />
       <item value="假的" />
       <item value="假" />
@@ -132,12 +133,11 @@
       <item value="POWER" />
       <item value="general" />
       <item value="通用分析" />
-      <item value="增量" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="2" />
-        <entry key="CHINESE" value="1404" />
+        <entry key="CHINESE" value="1405" />
         <entry key="ENGLISH" value="1403" />
         <entry key="ESPERANTO" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
