@@ -75,7 +75,7 @@
     <option name="lastTrimTime" value="1694509533163" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1744859186333" />
+    <option name="lastTrimTime" value="1745308003502" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
@@ -83,6 +83,7 @@
     <option name="newTranslationDialogX" value="651" />
     <option name="newTranslationDialogY" value="422" />
     <histories>
+      <item value="单独配置" />
       <item value="Fix This Secret Leak" />
       <item value="Fake" />
       <item value="假的" />
@@ -132,13 +133,12 @@
       <item value="jiu" />
       <item value="POWER" />
       <item value="general" />
-      <item value="通用分析" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="2" />
-        <entry key="CHINESE" value="1405" />
-        <entry key="ENGLISH" value="1403" />
+        <entry key="CHINESE" value="1411" />
+        <entry key="ENGLISH" value="1409" />
         <entry key="ESPERANTO" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="JAPANESE" value="1" />
