@@ -83,6 +83,9 @@
     <option name="newTranslationDialogX" value="651" />
     <option name="newTranslationDialogY" value="422" />
     <histories>
+      <item value="Returns a {@code Collector} that concatenates the input elements into a {@code String}, in encounter order. @return a {@code Collector} that concatenates the input elements into a {@code String}, in encounter order" />
+      <item value="离职" />
+      <item value="无效" />
       <item value="Para" />
       <item value="FOREVER EXPIRE TIME" />
       <item value="永久" />
@@ -130,15 +133,12 @@
       <item value="throughput" />
       <item value="retrieval operations obtain elements" />
       <item value="retrieval" />
-      <item value="linked" />
-      <item value="trick" />
-      <item value="变更erp范围" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="2" />
-        <entry key="CHINESE" value="1414" />
-        <entry key="ENGLISH" value="1413" />
+        <entry key="CHINESE" value="1416" />
+        <entry key="ENGLISH" value="1416" />
         <entry key="ESPERANTO" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="JAPANESE" value="1" />
