@@ -1,0 +1,7 @@
+<application>
+  <component name="SettingOnDisk">
+    <option name="enableFixOnEdit" value="false" />
+    <option name="classFixAddName" value="false" />
+    <option name="fieldFixAddName" value="false" />
+  </component>
+</application>
