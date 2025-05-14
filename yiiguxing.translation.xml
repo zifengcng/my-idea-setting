@@ -75,7 +75,7 @@
     <option name="lastTrimTime" value="1694509533163" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1746690159136" />
+    <option name="lastTrimTime" value="1747217686262" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
@@ -83,6 +83,8 @@
     <option name="newTranslationDialogX" value="651" />
     <option name="newTranslationDialogY" value="422" />
     <histories>
+      <item value="列" />
+      <item value="lie" />
       <item value="Returns a {@code Collector} that concatenates the input elements into a {@code String}, in encounter order. @return a {@code Collector} that concatenates the input elements into a {@code String}, in encounter order" />
       <item value="离职" />
       <item value="无效" />
@@ -131,14 +133,12 @@
       <item value="performance" />
       <item value="predictable" />
       <item value="throughput" />
-      <item value="retrieval operations obtain elements" />
-      <item value="retrieval" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="2" />
-        <entry key="CHINESE" value="1416" />
-        <entry key="ENGLISH" value="1416" />
+        <entry key="CHINESE" value="1419" />
+        <entry key="ENGLISH" value="1419" />
         <entry key="ESPERANTO" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="JAPANESE" value="1" />
