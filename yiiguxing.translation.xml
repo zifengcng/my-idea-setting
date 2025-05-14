@@ -83,6 +83,8 @@
     <option name="newTranslationDialogX" value="651" />
     <option name="newTranslationDialogY" value="422" />
     <histories>
+      <item value="任务" />
+      <item value="单位" />
       <item value="列" />
       <item value="lie" />
       <item value="Returns a {@code Collector} that concatenates the input elements into a {@code String}, in encounter order. @return a {@code Collector} that concatenates the input elements into a {@code String}, in encounter order" />
@@ -131,14 +133,12 @@
       <item value="bound" />
       <item value="Linked queues typically have higher throughput than array-based queues but less predictable performance in most concurrent applications." />
       <item value="performance" />
-      <item value="predictable" />
-      <item value="throughput" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="2" />
-        <entry key="CHINESE" value="1419" />
-        <entry key="ENGLISH" value="1419" />
+        <entry key="CHINESE" value="1430" />
+        <entry key="ENGLISH" value="1430" />
         <entry key="ESPERANTO" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="JAPANESE" value="1" />
