@@ -1,0 +1,14 @@
+<application>
+  <component name="settings.state.JoyCoder.com.jdh.SettingsState">
+    <option name="internalCompletionModel">
+      <ChatCompletionModel>
+        <option name="code" value="GPT-4.1" />
+        <option name="description" value="最新gpt4.1大模型" />
+        <option name="icon" value="https://img14.360buyimg.com/img/jfs/t1/113722/21/43440/16261/6521195fFde0b691b/941c6c23d0601367.png" />
+        <option name="showName" value="GPT-4.1" />
+        <option name="systemKey" value="system" />
+        <option name="systemValue" value="You are GPT4-O, a large language model trained by OpenAI. Return results Try to use %s as much as possible, Answer as concisely as possible. Include code language in markdown snippets whenever possible." />
+      </ChatCompletionModel>
+    </option>
+  </component>
+</application>
