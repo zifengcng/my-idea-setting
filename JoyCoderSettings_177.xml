@@ -1,8 +1,0 @@
-<application>
-  <component name="settings.state.JoyCoder.com.jdh.SettingsState">
-    <option name="chatCompletionModelConfig" value="GPT-3.5-Turbo" />
-    <option name="userToken" value="EuQ7XYiA7z1jrktgJzyfmM8qstURUrSEfC4Kyhxf9iE=" />
-    <option name="saytEnabled" value="false" />
-    <option name="completionModelConfig" value="JoyCoder-Base-Lite" />
-  </component>
-</application>
