@@ -75,7 +75,7 @@
     <option name="lastTrimTime" value="1694509533163" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1747217686262" />
+    <option name="lastTrimTime" value="1747708757060" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
@@ -83,6 +83,7 @@
     <option name="newTranslationDialogX" value="651" />
     <option name="newTranslationDialogY" value="422" />
     <histories>
+      <item value="Partical" />
       <item value="中小商运营" />
       <item value="二手运营" />
       <item value="助理采销" />
@@ -132,13 +133,12 @@
       <item value="The optional capacity bound constructor argument serves as a way to prevent excessive queue expansion" />
       <item value="expansion" />
       <item value="excessive" />
-      <item value="prevent" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="2" />
         <entry key="CHINESE" value="1433" />
-        <entry key="ENGLISH" value="1433" />
+        <entry key="ENGLISH" value="1434" />
         <entry key="ESPERANTO" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="JAPANESE" value="1" />
